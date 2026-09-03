@@ -838,6 +838,190 @@
         "credit": "Bild: NYU Abu Dhabi",
         "quelleUrl": "https://nyuad.nyu.edu/en/news/latest-news/science-and-technology/2026/august/research-3d-bridge.html"
       }
+    },
+    {
+      "id": "research-2026-08-24-hkust-titanium-architecture",
+      "storyId": "story-hkust-compositional-titanium",
+      "storyTitel": "HKUST · additiv erzeugte Kompositionswellen in Titan",
+      "beziehung": "original",
+      "thema": "Gedruckte Kompositionswellen lassen Titan doppelt so stark nachhärten.",
+      "kategorie": "Material & Werkstoffe",
+      "organisation": "Hong Kong University of Science and Technology / Harbin Institute of Technology",
+      "ort": "Hongkong / Harbin, China",
+      "ereignisDatum": "2026-08-24",
+      "veroeffentlichungsDatum": "2026-08-24",
+      "erfasstAm": "2026-09-03",
+      "quelleUrl": "https://www.nature.com/articles/s41467-026-76618-w",
+      "quelleName": "Nature Communications",
+      "zusaetzlicheQuellen": [],
+      "status": "Validiert",
+      "neuheitsstatus": "bedeutende Weiterentwicklung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Beim Laser-Pulverbettverfahren erzeugt eine Mischung aus Molybdän und Ti-6Al-4V dreidimensional verbundene Kompositionswellen mit drei unterschiedlichen Mikrostrukturzonen. Ihr Zusammenspiel erreicht rund 557 Megapascal Verfestigungszuwachs, 1.236 Megapascal Zugfestigkeit und 11,5 Prozent gleichmäßige Dehnung.",
+      "wasIstNeu": "Nicht eine homogene Legierungsrezeptur, sondern die räumlich programmierte chemische Zusammensetzung im gedruckten Bauteil steuert mehrere Verformungsmechanismen gleichzeitig.",
+      "relevanz": "Die Methode erweitert den Designraum für leichte Titanbauteile, die hohe Festigkeit und nutzbare Duktilität verbinden müssen.",
+      "endnutzerRelevanz": "Langfristig könnten robustere und leichtere Komponenten für Luftfahrt, Mobilität und Medizintechnik entstehen.",
+      "flag": "Materialstudie an Proben; industrielle Skalierung, Ermüdung und Bauteilqualifikation sind noch nicht nachgewiesen.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 8,
+        "wowFaktor": 8,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/titanium-compositional-architecture.png",
+        "alt": "Mikrostruktur und mechanische Kennwerte der additiv erzeugten Titan-Kompositionsarchitektur",
+        "credit": "Abbildung: Ma et al., Nature Communications, CC BY 4.0",
+        "quelleUrl": "https://www.nature.com/articles/s41467-026-76618-w"
+      }
+    },
+    {
+      "id": "research-2026-08-24-qub-skin-cancer-patch",
+      "storyId": "story-qub-dissolving-skin-cancer-patch",
+      "storyTitel": "Queen’s University Belfast · lösliches Mikronadelpflaster",
+      "beziehung": "original",
+      "thema": "Ein gedrucktes Mikronadelpflaster gibt zwei Hautkrebswirkstoffe gezielt frei.",
+      "kategorie": "Medizin & Körper",
+      "organisation": "Queen’s University Belfast",
+      "ort": "Belfast, Vereinigtes Königreich",
+      "ereignisDatum": "2026-08-24",
+      "veroeffentlichungsDatum": "2026-08-24",
+      "erfasstAm": "2026-09-03",
+      "quelleUrl": "https://www.qub.ac.uk/News/Allnews/2026/innovative-3d-printed-patch-skin-cancer-treatment.html",
+      "quelleName": "Queen’s University Belfast",
+      "zusaetzlicheQuellen": [],
+      "status": "Validiert",
+      "neuheitsstatus": "bedeutende Weiterentwicklung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Ein einstufiges Druckverfahren mischt Curcumin und 5-Fluorouracil direkt in die löslichen Mikronadeln. Das Pflaster durchdringt die äußere Hautschicht ohne Blutung und kombiniert höhere Wirkstoffbeladung mit einer kontrollierten zweistufigen Freisetzung.",
+      "wasIstNeu": "Die beiden Wirkstoffe werden während des Drucks in die Nadeln integriert, statt nachträglich auf ein fertiges Pflaster beschichtet zu werden.",
+      "relevanz": "Lokale Wirkstoffabgabe könnte die Behandlung oberflächlicher Hauttumoren präziser und weniger invasiv machen.",
+      "endnutzerRelevanz": "Perspektivisch wären weniger schmerzhafte Anwendungen und weniger medizinischer Nadelabfall möglich.",
+      "flag": "Frühe Laborforschung; Wirksamkeit und Sicherheit bei Patienten sind nicht klinisch belegt.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 9
+      }
+    },
+    {
+      "id": "event-2026-08-28-umaine-3dirigo-x",
+      "storyId": "story-umaine-3dirigo-x",
+      "storyTitel": "University of Maine · Hochleistungsboot 3Dirigo X",
+      "beziehung": "original",
+      "thema": "Ein 30 Fuß langes Druckboot fährt für Hochseetests aufs Wasser.",
+      "kategorie": "Raumfahrt & Mobilität",
+      "organisation": "University of Maine Advanced Structures and Composites Center",
+      "ort": "Hampden, Maine, USA",
+      "ereignisDatum": "2026-08-28",
+      "veroeffentlichungsDatum": "2026-08-28",
+      "erfasstAm": "2026-09-03",
+      "quelleUrl": "https://umaine.edu/news/2026/08/university-of-maine-launches-3dirigo-x-advancing-future-of-maritime-manufacturing/",
+      "quelleName": "University of Maine",
+      "zusaetzlicheQuellen": [],
+      "status": "Validiert",
+      "neuheitsstatus": "reales Demonstrationsereignis",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Die University of Maine setzte das 30 Fuß lange, großformatig 3D-gedruckte Boot 3Dirigo X erstmals für eine Vorführung aufs Wasser. Der Rumpf ist für Offshore-Belastungen und Geschwindigkeiten nahe 40 Knoten ausgelegt; die Materialablage stieg gegenüber den Anfängen des Programms von rund 20 auf 500 Pfund pro Stunde.",
+      "wasIstNeu": "Nach dem Rekord-Demonstrator von 2019 folgt ein schnelleres, für reale Hochseelasten konstruiertes Versuchsboot mit anschließender Erprobung.",
+      "relevanz": "Formenloser Großformatdruck könnte Entwicklungszyklen und Werkzeugkosten im spezialisierten Bootsbau reduzieren.",
+      "endnutzerRelevanz": "Kleinserien, Ersatzfahrzeuge und missionsspezifische Boote könnten schneller angepasst und gefertigt werden.",
+      "flag": "Prototyp vor Langzeiterprobung; Wiederholbarkeit, Inspektion, Kosten und Dauerhaltbarkeit müssen noch validiert werden.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 8,
+        "wowFaktor": 9,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/umaine-3dirigo-x.jpg",
+        "alt": "Das 3D-gedruckte Versuchsboot 3Dirigo X während der Vorführung auf dem Wasser",
+        "credit": "Bild: University of Maine",
+        "quelleUrl": "https://umaine.edu/news/2026/08/university-of-maine-launches-3dirigo-x-advancing-future-of-maritime-manufacturing/"
+      }
+    },
+    {
+      "id": "research-2026-09-01-waterloo-flow-battery",
+      "storyId": "story-waterloo-tpms-flow-battery-electrode",
+      "storyTitel": "University of Waterloo · TPMS-Elektrode für Flussbatterien",
+      "beziehung": "original",
+      "thema": "Eine naturinspirierte Druckelektrode steigert die Flussbatterie-Leistung um 52 Prozent.",
+      "kategorie": "Energie & Infrastruktur",
+      "organisation": "University of Waterloo",
+      "ort": "Waterloo, Kanada",
+      "ereignisDatum": "2026-09-01",
+      "veroeffentlichungsDatum": "2026-09-01",
+      "erfasstAm": "2026-09-03",
+      "quelleUrl": "https://uwaterloo.ca/news/media/nature-inspired-3d-printing-could-improve-large-scale",
+      "quelleName": "University of Waterloo",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Journal of Energy Storage",
+          "url": "https://doi.org/10.1016/j.est.2026.123821"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "bedeutende Weiterentwicklung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Team druckte poröse TPMS-Strukturen per Digital Light Processing und wandelte sie durch Wärmebehandlung in leitfähige Kohlenstoffelektroden um. Die diamantförmige Geometrie verbesserte den Stofftransport und steigerte die gemessene Leistung in einer funktionsfähigen Vanadium-Redox-Flow-Batterie um 52 Prozent.",
+      "wasIstNeu": "Die innere Elektrodengeometrie wird frei gestaltet und anschließend karbonisiert, sodass Elektrolytströmung und reaktive Oberfläche gemeinsam optimiert werden.",
+      "relevanz": "Effizientere Flussbatterien sind für sichere, stationäre Speicherung großer Mengen Wind- und Solarstrom interessant.",
+      "endnutzerRelevanz": "Langfristig könnte erneuerbarer Strom auf Netzebene effizienter zwischengespeichert werden.",
+      "flag": "Labor-Proof-of-Concept; Oberfläche, Fertigung und Skalierung der Elektroden werden weiter optimiert.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/waterloo-flow-battery.jpg",
+        "alt": "Versuchsaufbau einer Redox-Flow-Batterie mit Elektrolyttanks und Umwälzpumpe",
+        "credit": "Bild: University of Waterloo",
+        "quelleUrl": "https://uwaterloo.ca/news/media/nature-inspired-3d-printing-could-improve-large-scale"
+      }
+    },
+    {
+      "id": "research-2026-09-03-rmit-floating-titanium",
+      "storyId": "story-rmit-floating-titanium-lattice",
+      "storyTitel": "RMIT · schwimmende Titan-Polymer-Gitterstruktur",
+      "beziehung": "original",
+      "thema": "Ein gedrucktes Titangitter schwimmt selbst nach schweren Schäden weiter.",
+      "kategorie": "Material & Werkstoffe",
+      "organisation": "RMIT University / Conservatoire National des Arts et Métiers",
+      "ort": "Melbourne, Australien / Paris, Frankreich",
+      "ereignisDatum": "2026-09-03",
+      "veroeffentlichungsDatum": "2026-09-03",
+      "erfasstAm": "2026-09-03",
+      "quelleUrl": "https://www.rmit.edu.au/news/all-news/2026/sep/floating-titanium",
+      "quelleName": "RMIT University",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Advanced Materials",
+          "url": "https://doi.org/10.1002/adma.74641"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "erstmaliger Funktionsnachweis",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Hohle, miteinander verbundene Titanstreben aus dem 3D-Druck werden innen mit Polyurethanschaum gefüllt. Wasser kann durch das offene Gitter fließen, während geschlossene Schaumzellen Auftrieb sichern. Proben schwammen mehr als zwei Monate und blieben nach Rissen sowie dem Bruch einer ganzen Gitterschicht schwimmfähig.",
+      "wasIstNeu": "Das Team demonstriert erstmals ein offenzelliges Metall-Polymer-Gitter, dessen Skelettdichte Auftrieb ermöglicht, ohne das gesamte Bauteil abzudichten.",
+      "relevanz": "Schadenstolerante, korrosionsbeständige Leichtstrukturen könnten Bojen, Stege und maritime Sensorplattformen sicherer machen.",
+      "endnutzerRelevanz": "Schwimmende Infrastruktur könnte leichter, robuster und auch nach lokaler Beschädigung funktionsfähig bleiben.",
+      "flag": "Kleine Proben und kompakter Demonstrationskörper; Langzeitverhalten im Meer und großformatige Fertigung sind offen.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 8,
+        "wowFaktor": 9,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/rmit-floating-titanium.jpg",
+        "alt": "Jordan Noronha hält eine schwimmende 3D-gedruckte Titangitterprobe in Wasser",
+        "credit": "Foto: Sara Tan, RMIT University",
+        "quelleUrl": "https://www.rmit.edu.au/news/all-news/2026/sep/floating-titanium"
+      }
     }
   ]
 }

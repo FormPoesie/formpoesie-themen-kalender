@@ -71,7 +71,7 @@ Ein Update bekommt eine neue `id`, behält aber die vorhandene `storyId`. Eine b
 
 Die Bestandsdaten wurden auf je einen Ursprungseintrag pro Story bereinigt. Wiederholte Fassungen ohne neuen Entwicklungsschritt wurden vollständig entfernt.
 
-Am 03.09.2026 wurden nach einer erneuten Recherche für die vorausgegangenen drei Monate sieben zusätzliche, durch Originalpublikationen oder offizielle Institutionsquellen belegte Ereignisse ergänzt. Das Archiv enthält damit 24 eigenständige Storys. Für 13 Ereignisse sind eindeutig zuordenbare Bilder der jeweiligen Quellen lokal hinterlegt und direkt in der Tagesdetailansicht sichtbar.
+Seit dem 03.09.2026 wird der Bestand durch eine tägliche Recherche in einem rollierenden Drei-Monats-Zeitraum ergänzt. Aufgenommen werden nur durch Originalpublikationen oder offizielle Institutionsquellen belegte, eigenständige Ereignisse. Der jeweils aktuelle Umfang sowie die Zahl der eindeutig zuordenbaren Quellenbilder stehen direkt in der Archivübersicht.
 
 Mehrere Alteinträge enthielten nur ein Publikations- oder früheres Kalenderdatum. Sie sind nicht stillschweigend als sicher behandelt: Der jeweilige `status` und `flag` nennen die offene Datums- oder Quellenfrage. Die spätere Recherche sollte diese Fälle mit Primärquellen nachvalidieren.
 
