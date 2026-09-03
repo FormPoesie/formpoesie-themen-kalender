@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f0e8">
+  <meta name="description" content="FormPoesie Themen-Kalender: ein nachvollziehbares Archiv relevanter Entwicklungen im 3D-Druck.">
+  <meta property="og:title" content="FormPoesie — Themen-Kalender">
+  <meta property="og:description" content="3D-Druck-Neuigkeiten nach ihrem tatsächlichen Ereignisdatum — mit Quellen, Bildern und redaktioneller Einordnung.">
+  <meta property="og:type" content="website">
+  <title>FormPoesie — Themen-Kalender</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,300;0,500;1,400&family=Oxygen:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#kalender">Zum Kalender springen</a>
+  <div class="wrap">
+    <header>
+      <div class="masthead">
+        <h1>Themen-Kalender</h1>
+        <div class="who">FormPoesie · 3D-Druck-Editorial</div>
+      </div>
+      <ul class="counts" id="counts" aria-label="Archivübersicht"></ul>
+      <p class="lede">Jede eigenständige Entwicklung mit Thema, Quelle und dem <em>exakten Datum des Ereignisses</em> — nicht dem Tag, an dem darüber berichtet wurde. Ein Klick auf den Kalendertag öffnet Bild, Einordnung und Quellen.</p>
+      <div class="controls" aria-label="Kalender filtern">
+        <label class="search"><span class="sr-only">Themen durchsuchen</span><input id="search" type="search" placeholder="Thema, Organisation oder Ort suchen …" autocomplete="off"></label>
+        <label class="select"><span class="sr-only">Kategorie wählen</span><select id="category"><option value="">Alle Kategorien</option></select></label>
+        <button class="text-button" id="reset" type="button" hidden>Filter zurücksetzen</button>
+      </div>
+      <p class="status-line" id="filter-status" aria-live="polite"></p>
+    </header>
+
+    <main>
+      <section id="kalender" aria-labelledby="calendar-title">
+        <div class="section-head calendar-head">
+          <div><h2 id="calendar-title">Kalender</h2><p class="sub">Das Ereignisdatum bestimmt den Kalendertag.</p></div>
+          <div class="calbar">
+            <button id="prev" type="button" aria-label="Vorheriger Monat">‹</button>
+            <div class="mon" id="mon" aria-live="polite"></div>
+            <button id="next" type="button" aria-label="Nächster Monat">›</button>
+          </div>
+        </div>
+        <div class="calendar-scroll" tabindex="0" aria-label="Kalender, horizontal scrollbar auf kleinen Bildschirmen">
+          <div class="grid" id="grid"></div>
+        </div>
+        <div class="legend" id="legend" aria-label="Kategorien"></div>
+      </section>
+    </main>
+
+    <footer id="foot"></footer>
+  </div>
+
+  <div class="veil" id="veil" aria-hidden="true">
+    <div class="panel" id="panel" role="dialog" aria-modal="true" aria-labelledby="panel-title" tabindex="-1"></div>
+  </div>
+  <noscript>Für Kalendernavigation und Detailansichten muss JavaScript aktiviert sein.</noscript>
+</body>
+</html>

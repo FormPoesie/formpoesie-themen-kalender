@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://formpoesie.example/schemas/themen-kalender-v1.json",
+  "title": "FormPoesie Themen-Kalender",
+  "type": "object",
+  "required": ["meta", "eintraege"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["schemaVersion", "titel", "aktualisiertAm"],
+      "properties": {
+        "schemaVersion": {"const": 1},
+        "titel": {"type": "string", "minLength": 1},
+        "aktualisiertAm": {"type": "string", "format": "date"},
+        "hinweis": {"type": "string"}
+      },
+      "additionalProperties": false
+    },
+    "eintraege": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/eintrag"}
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "quelle": {
+      "type": "object",
+      "required": ["name", "url"],
+      "properties": {"name": {"type": "string"}, "url": {"type": "string", "format": "uri"}},
+      "additionalProperties": false
+    },
+    "bewertungen": {
+      "type": "object",
+      "required": ["neuheitsgrad", "relevanz", "wowFaktor", "quellenqualitaet"],
+      "properties": {
+        "neuheitsgrad": {"type": "integer", "minimum": 0, "maximum": 10},
+        "relevanz": {"type": "integer", "minimum": 0, "maximum": 10},
+        "wowFaktor": {"type": "integer", "minimum": 0, "maximum": 10},
+        "quellenqualitaet": {"type": "integer", "minimum": 0, "maximum": 10}
+      },
+      "additionalProperties": false
+    },
+    "bild": {
+      "type": "object",
+      "required": ["url", "alt", "credit", "quelleUrl"],
+      "properties": {
+        "url": {"type": "string", "pattern": "^assets/images/"},
+        "alt": {"type": "string", "minLength": 1},
+        "credit": {"type": "string", "minLength": 1},
+        "quelleUrl": {"type": "string", "format": "uri"}
+      },
+      "additionalProperties": false
+    },
+    "eintrag": {
+      "type": "object",
+      "required": ["id", "storyId", "storyTitel", "beziehung", "thema", "kategorie", "organisation", "ort", "ereignisDatum", "veroeffentlichungsDatum", "erfasstAm", "quelleUrl", "quelleName", "zusaetzlicheQuellen", "status", "neuheitsstatus", "vertrauensniveau", "zusammenfassung", "wasIstNeu", "relevanz", "endnutzerRelevanz", "flag", "bewertungen"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+        "storyId": {"type": "string", "pattern": "^story-[a-z0-9-]+$"},
+        "storyTitel": {"type": "string", "minLength": 1},
+        "beziehung": {"enum": ["original", "update"]},
+        "thema": {"type": "string", "minLength": 1},
+        "kategorie": {"type": "string", "minLength": 1},
+        "organisation": {"type": "string"},
+        "ort": {"type": "string"},
+        "ereignisDatum": {"type": "string", "format": "date"},
+        "veroeffentlichungsDatum": {"type": "string", "format": "date"},
+        "erfasstAm": {"type": "string", "format": "date"},
+        "quelleUrl": {"type": "string"},
+        "quelleName": {"type": "string"},
+        "zusaetzlicheQuellen": {"type": "array", "items": {"$ref": "#/$defs/quelle"}},
+        "status": {"type": "string"},
+        "neuheitsstatus": {"type": "string"},
+        "vertrauensniveau": {"enum": ["Hoch", "Mittel", "Niedrig"]},
+        "zusammenfassung": {"type": "string"},
+        "wasIstNeu": {"type": "string"},
+        "relevanz": {"type": "string"},
+        "endnutzerRelevanz": {"type": "string"},
+        "flag": {"type": "string"},
+        "bewertungen": {"$ref": "#/$defs/bewertungen"},
+        "bild": {"$ref": "#/$defs/bild"}
+      },
+      "additionalProperties": false
+    }
+  }
+}

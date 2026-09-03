@@ -1,0 +1,11 @@
+{
+  "name": "formpoesie-themen-kalender",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Statisches Archiv für recherchierte 3D-Druck-Entwicklungen",
+  "scripts": {
+    "check": "node scripts/validate-data.mjs && node --check assets/app.js",
+    "start": "python3 -m http.server 8080"
+  },
+  "engines": {"node": ">=18"}
+}
