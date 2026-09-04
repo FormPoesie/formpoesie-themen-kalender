@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-03",
+    "aktualisiertAm": "2026-09-04",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1021,6 +1021,88 @@
         "alt": "Jordan Noronha hält eine schwimmende 3D-gedruckte Titangitterprobe in Wasser",
         "credit": "Foto: Sara Tan, RMIT University",
         "quelleUrl": "https://www.rmit.edu.au/news/all-news/2026/sep/floating-titanium"
+      }
+    },
+    {
+      "id": "research-2026-09-02-uva-ice-printing",
+      "storyId": "story-uva-vacuum-ice-printing",
+      "storyTitel": "Universität Amsterdam · Stützfreier 3D-Druck aus Eis",
+      "beziehung": "original",
+      "thema": "Ein Wasserstrahl druckt im Vakuum freitragende Profile aus reinem Eis.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "Universität Amsterdam, Institute of Physics",
+      "ort": "Amsterdam, Niederlande",
+      "ereignisDatum": "2026-09-02",
+      "veroeffentlichungsDatum": "2026-09-03",
+      "erfasstAm": "2026-09-04",
+      "quelleUrl": "https://iop.uva.nl/content/news/2026/08/printing-with-ice.html",
+      "quelleName": "Universität Amsterdam",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Proceedings of the National Academy of Sciences",
+          "url": "https://doi.org/10.1073/pnas.2608173123"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "erstmaliger Funktionsnachweis",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Ein nur 16 Mikrometer dünner Wasserstrahl wird in einer Vakuumkammer durch Verdunstung so stark gekühlt, dass er beim Auftreffen nahezu sofort gefriert. Durch eine angepasste Bewegungsgeschwindigkeit entstehen stabile, freitragende Eisprofile bis hin zur Kontur eines Gesichts – ohne externe Kühlung oder zusätzliches Stützmaterial.",
+      "wasIstNeu": "Die peer-reviewte Arbeit zeigt neben schichtweise gedruckten Formen auch stützfreie, geneigte Eisstrukturen mit Winkeln bis auf 14 Grad zur Oberfläche.",
+      "relevanz": "Sauber ausschmelzbare Eisstrukturen könnten als temporäre Schablonen für Mikrofluidik, Gewebezüchtung und andere komplexe Hohlkanäle dienen.",
+      "endnutzerRelevanz": "Langfristig könnten rückstandsfrei entfernbare Eisschablonen die Herstellung feiner Kanalsysteme in Medizin und Labortechnik vereinfachen.",
+      "flag": "Grundlagenforschung in einer Vakuumkammer; Skalierung, Maßhaltigkeit und konkrete Anwendungen sind noch nicht nachgewiesen. Ein Vorabdemonstrator war bereits im Dezember 2025 bekannt, neu ist die peer-reviewte Validierung der stützfreien Profile.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 7,
+        "wowFaktor": 9,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/uva-ice-printing.jpg",
+        "alt": "Vergleich zwischen der Kontur eines Gesichts und dem stützfrei gedruckten Eisprofil",
+        "credit": "Abbildung: Demmenie et al., PNAS / Universität Amsterdam",
+        "quelleUrl": "https://iop.uva.nl/content/news/2026/08/printing-with-ice.html"
+      }
+    },
+    {
+      "id": "event-2026-09-01-diff3d-personal-shoe",
+      "storyId": "story-diff3d-personal-shoe",
+      "storyTitel": "DIFF. · automatisch entworfener 3D-Druck-Schuh",
+      "beziehung": "original",
+      "thema": "Ein vollständig individualisierter 3D-Druck-Schuh geht in Japan in den Verkauf.",
+      "kategorie": "Konsum & Alltag",
+      "organisation": "DIFF.",
+      "ort": "Osaka, Japan",
+      "ereignisDatum": "2026-09-01",
+      "veroeffentlichungsDatum": "2026-09-02",
+      "erfasstAm": "2026-09-04",
+      "quelleUrl": "https://prtimes.jp/main/html/rd/p/000000019.000111515.html",
+      "quelleName": "DIFF. über PR TIMES",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "DIFF. Produktseite",
+          "url": "https://store.diff-shoe.com/pages/personalshoes_diff3d_lp"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "kommerzielle Einführung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "DIFF. bietet seit dem 1. September einen auf Bestellung gefertigten Alltagsschuh an, dessen Innenform für jeden linken und rechten Fuß separat aus 3D-Fußdaten automatisch konstruiert wird. Der Schuh besteht aus TPU, wird ohne größenabhängige Formwerkzeuge 3D-gedruckt und soll nach bestätigtem Datensatz in rund zehn Tagen geliefert werden.",
+      "wasIstNeu": "Nach einer Beta-Phase wird die durchgängig datenbasierte Einzelanfertigung regulär verkauft; laut Anbieter liegt die aktuelle Kapazität bei 80 Paar pro Monat.",
+      "relevanz": "Die Einführung erprobt individualisierte Serienlogik ohne Größenlager und klassische Formwerkzeuge zu einem Endkundenpreis von 27.500 Yen inklusive Steuer.",
+      "endnutzerRelevanz": "Menschen mit stark unterschiedlichen oder ungewöhnlich geformten Füßen erhalten eine neue kommerzielle Alternative zu standardisierten Schuhgrößen.",
+      "flag": "Herstellerangaben; kein medizinisches Produkt und keine unabhängigen Langzeitdaten zu Komfort, Haltbarkeit oder Passformwirkung. Personalisierte 3D-Druck-Schuhe existieren bereits, relevant ist hier der dokumentierte reguläre Verkaufsstart in Japan.",
+      "bewertungen": {
+        "neuheitsgrad": 6,
+        "relevanz": 8,
+        "wowFaktor": 7,
+        "quellenqualitaet": 8
+      },
+      "bild": {
+        "url": "assets/images/diff3d-personal-shoe.jpg",
+        "alt": "Visualisierung eines schwarzen DIFF.3D-Schuhs mit grünem digitalen Fußmodell",
+        "credit": "Bild: DIFF.",
+        "quelleUrl": "https://prtimes.jp/main/html/rd/p/000000019.000111515.html"
       }
     }
   ]
