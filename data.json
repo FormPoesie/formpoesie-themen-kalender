@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-04",
+    "aktualisiertAm": "2026-09-05",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1103,6 +1103,47 @@
         "alt": "Visualisierung eines schwarzen DIFF.3D-Schuhs mit grünem digitalen Fußmodell",
         "credit": "Bild: DIFF.",
         "quelleUrl": "https://prtimes.jp/main/html/rd/p/000000019.000111515.html"
+      }
+    },
+    {
+      "id": "event-2026-06-30-clasco-laser-postprocessing",
+      "storyId": "story-clasco-laser-postprocessing",
+      "storyTitel": "CLASCO · digitalisierte Laser-Nachbearbeitung für gedruckte Metallteile",
+      "beziehung": "original",
+      "thema": "Eine integrierte Laserkette glättet und funktionalisiert gedruckte Metalloberflächen.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "Technische Universität Dresden / CATEC / CLASCO-Konsortium",
+      "ort": "Dresden, Deutschland / Sevilla, Spanien / Europa",
+      "ereignisDatum": "2026-06-30",
+      "veroeffentlichungsDatum": "2026-09-04",
+      "erfasstAm": "2026-09-05",
+      "quelleUrl": "https://info.catec.aero/en/innovation-technology/the-european-clasco-project-has-been-successfully-completed-demonstrating-that-lasers-provide-new-functionalities-for-3d-printed-metal-components/",
+      "quelleName": "CATEC",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "CORDIS – Europäische Kommission",
+          "url": "https://cordis.europa.eu/project/id/101091373"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "validierte Prozessintegration",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das europäische CLASCO-Projekt hat eine digitalisierte Prozesskette für additiv gefertigte Metallteile abgeschlossen. Kontaktloses Laserpolieren senkte die typische Oberflächenrauheit von 10 bis 30 Mikrometern auf unter einen Mikrometer; anschließend erzeugt Direct Laser Interference Patterning definierte Mikrostrukturen, um Benetzung, Korrosion oder die Wechselwirkung von Implantatoberflächen gezielt einzustellen.",
+      "wasIstNeu": "Laserpolieren, Mikrostrukturierung, Prozessüberwachung, digitale Zwillinge und KI wurden in einem gemeinsamen System kombiniert und an Luftfahrt-, Raumfahrt- und Medizindemonstratoren validiert.",
+      "relevanz": "Die integrierte Nachbearbeitung adressiert eine zentrale Hürde des Metalldrucks: komplexe Geometrien erhalten glatte und lokal funktionalisierte Oberflächen, ohne mechanisch schwer erreichbare Stellen konventionell bearbeiten zu müssen.",
+      "endnutzerRelevanz": "Präziser nachbearbeitete Metallteile könnten langfristig leichtere Flugzeugkomponenten und gezielt strukturierte Implantatoberflächen ermöglichen.",
+      "flag": "Abgeschlossener Forschungsverbund vor breiter industrieller Übertragung. Die Gewichtsreduktionen von 53 und 38 Prozent an zwei Airbus-A350-Demonstratoren beruhen zusätzlich auf Topologieoptimierung und sind nicht allein dem Laserverfahren zuzuschreiben.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 7,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/clasco-laser-postprocessing.jpg",
+        "alt": "CLASCO-Prozessgrafik vom additiv gefertigten Rohteil über die Laseranlage zur funktionalisierten Mikrooberfläche",
+        "credit": "Grafik: CLASCO-Projekt / CATEC",
+        "quelleUrl": "https://info.catec.aero/en/innovation-technology/the-european-clasco-project-has-been-successfully-completed-demonstrating-that-lasers-provide-new-functionalities-for-3d-printed-metal-components/"
       }
     }
   ]
