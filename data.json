@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-05",
+    "aktualisiertAm": "2026-09-08",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1144,6 +1144,169 @@
         "alt": "CLASCO-Prozessgrafik vom additiv gefertigten Rohteil über die Laseranlage zur funktionalisierten Mikrooberfläche",
         "credit": "Grafik: CLASCO-Projekt / CATEC",
         "quelleUrl": "https://info.catec.aero/en/innovation-technology/the-european-clasco-project-has-been-successfully-completed-demonstrating-that-lasers-provide-new-functionalities-for-3d-printed-metal-components/"
+      }
+    },
+    {
+      "id": "research-2026-09-01-jhuapl-spear-heatsink",
+      "storyId": "story-jhuapl-spear-heatsink",
+      "storyTitel": "Johns Hopkins APL · gedruckter Phasenwechsel-Kühlkörper",
+      "beziehung": "original",
+      "thema": "Ein einteilig gedruckter Kühlkörper halbiert Volumen und Gewicht bei gleicher Wärmekapazität.",
+      "kategorie": "Energie & Infrastruktur",
+      "organisation": "Johns Hopkins University Applied Physics Laboratory",
+      "ort": "Laurel, Maryland, USA",
+      "ereignisDatum": "2026-09-01",
+      "veroeffentlichungsDatum": "2026-09-01",
+      "erfasstAm": "2026-09-07",
+      "quelleUrl": "https://www.jhuapl.edu/news/news-releases/260901-apl-researchers-developing-new-heatsink-using-additive-manufacturing",
+      "quelleName": "Johns Hopkins University Applied Physics Laboratory",
+      "zusaetzlicheQuellen": [],
+      "status": "Validiert",
+      "neuheitsstatus": "erprobter Prototyp",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das SPEAR-Team druckte einteilige Kühlkörper, füllte und versiegelte sie mit einem Phasenwechselmaterial und verglich zwei Varianten mit einem massiven Aluminiumkörper. Eine Variante bot bei gleichem Volumen mehr thermische Speicherkapazität; die zweite erreichte dieselbe Kapazität mit mehr als 50 Prozent weniger Volumen und Gewicht. Die Testkörper blieben bei der Erprobung dicht.",
+      "wasIstNeu": "Additive Fertigung integriert Behälter und innere Wärmestruktur in ein Bauteil, sodass ein kompakter Phasenwechsel-Kühlkörper ohne die üblichen komplexen Baugruppen erprobt werden konnte.",
+      "relevanz": "Kurzzeitig stark belastete Elektronik in Raumfahrt-, Funk- oder Hyperschallsystemen kann Wärme speichern, wenn Konvektion oder aktive Kühlung kaum möglich sind.",
+      "endnutzerRelevanz": "Die Technik könnte kompaktere, leichtere Elektroniksysteme ermöglichen, die kurze Leistungsspitzen ohne große Kühleinheiten verkraften.",
+      "flag": "Früher Entwicklungsstand ohne veröffentlichte Angaben zum verwendeten Phasenwechselmaterial oder zu Langzeitzyklen. APL nennt zivile Raumfahrt- und Funkanwendungen sowie militärische Einsatzfelder; die Entwicklung ist daher Dual-Use.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 8,
+        "wowFaktor": 8,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/jhuapl-spear-heatsinks.jpg",
+        "alt": "SPEAR-Versuchskoffer mit drei gleichzeitig beheizten Kühlkörpern und Anzeige ihrer Temperaturverläufe",
+        "credit": "Foto: Johns Hopkins APL / Craig Weiman",
+        "quelleUrl": "https://www.jhuapl.edu/news/news-releases/260901-apl-researchers-developing-new-heatsink-using-additive-manufacturing"
+      }
+    },
+    {
+      "id": "research-2026-08-03-hfips-microwave-metastructure",
+      "storyId": "story-hfips-microwave-metastructure",
+      "storyTitel": "HFIPS · multifunktionale Mikrowellen-Absorberstruktur",
+      "beziehung": "original",
+      "thema": "Eine gedruckte Metastruktur absorbiert Mikrowellen, trägt Lasten und enteist sich selbst.",
+      "kategorie": "Material & Werkstoffe",
+      "organisation": "Hefei Institutes of Physical Science, Chinese Academy of Sciences",
+      "ort": "Hefei, China",
+      "ereignisDatum": "2026-08-03",
+      "veroeffentlichungsDatum": "2026-09-03",
+      "erfasstAm": "2026-09-07",
+      "quelleUrl": "https://english.hf.cas.cn/nr/rn/202609/t20260903_1190751.html",
+      "quelleName": "Hefei Institutes of Physical Science, Chinese Academy of Sciences",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Chemical Engineering Journal",
+          "url": "https://doi.org/10.1016/j.cej.2026.180304"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "multifunktionaler Labornachweis",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Eine 14,7 Millimeter dicke, per FDM gedruckte Struktur kombiniert drei abgestufte Kegel aus PA6-Kohlefaser-Verbund, reine PA6-Zwischenlagen und eine laserbehandelte leitfähige Rückseite. Das Bauteil absorbiert Mikrowellen über 2 bis 40 Gigahertz auch bei schrägem Einfall, besitzt tragfähige Druckeigenschaften und schmolz bei 25 Volt eine drei Millimeter dicke Eisschicht innerhalb von 60 Sekunden.",
+      "wasIstNeu": "Maschinelles Lernen optimierte Geometrie und Materialaufbau gemeinsam, sodass Breitbandabsorption, strukturelle Tragfähigkeit und elektrothermische Enteisung in einem gedruckten Bauteil zusammenkommen.",
+      "relevanz": "Multifunktionale Verbundstrukturen könnten elektromagnetische Abschirmung und mechanische Aufgaben verbinden und dadurch Zusatzbauteile in Luftfahrt oder empfindlicher Elektronik reduzieren.",
+      "endnutzerRelevanz": "Langfristig könnten leichtere Bauteile gleichzeitig Funkreflexionen dämpfen und Eis aktiv entfernen, statt dafür getrennte Systeme zu benötigen.",
+      "flag": "Laborstudie mit simulationsgestützter Optimierung; Skalierung, Außenbewitterung und Dauerhaltbarkeit sind nicht belegt. Die mögliche Radar- und Flugzeuganwendung macht die Entwicklung zu Dual-Use.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 8,
+        "wowFaktor": 9,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/hfips-microwave-metastructure.png",
+        "alt": "Schema der dreistufigen Absorbergeometrie und des maschinellen Lernprozesses zur Auswahl der Druckparameter",
+        "credit": "Abbildung: Min Xi / HFIPS, Chinese Academy of Sciences",
+        "quelleUrl": "https://english.hf.cas.cn/nr/rn/202609/t20260903_1190751.html"
+      }
+    },
+    {
+      "id": "research-2026-07-05-wuhan-laser-shock-lpbf",
+      "storyId": "story-wuhan-laser-shock-lpbf",
+      "storyTitel": "Wuhan University · laserstoßstabilisierter Metall-3D-Druck",
+      "beziehung": "original",
+      "thema": "Ein zweiter Laserstoß senkt die Porosität beim Metall-3D-Druck um 85 Prozent.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "Wuhan University",
+      "ort": "Wuhan, China",
+      "ereignisDatum": "2026-07-05",
+      "veroeffentlichungsDatum": "2026-08-28",
+      "erfasstAm": "2026-09-08",
+      "quelleUrl": "https://news.whu.edu.cn/info/1015/501547.htm",
+      "quelleName": "Wuhan University",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Additive Manufacturing",
+          "url": "https://doi.org/10.1016/j.addma.2026.105324"
+        },
+        {
+          "name": "Wuhan University (English)",
+          "url": "https://en.whu.edu.cn/info/4661/58321.htm"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "validierter Verfahrensprototyp",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Team koppelte einen kostengünstigen gepulsten Faser-Nanosekundenlaser koaxial mit dem kontinuierlichen Baulaser eines LPBF-Systems. Die periodischen mechanischen Stöße stabilisierten Schmelzbad und Keyhole, reduzierten Spritzer und senkten die Porosität von gedrucktem 316L-Edelstahl im besten Versuchsfall um 85,03 Prozent. Der robuste Faseraufbau erreichte eine absolute Porosität von 0,0032 Prozent.",
+      "wasIstNeu": "Die Laserstoß-Modulation greift während des Bauprozesses direkt in die Keyhole-Dynamik ein und wurde von einem optischen Prinzipaufbau zu einem stabilen, fasergekoppelten Doppelstrahlsystem weiterentwickelt.",
+      "relevanz": "Weniger Poren können Festigkeit und Ermüdungsbeständigkeit metallischer LPBF-Bauteile erhöhen und zugleich den Bedarf an aufwendiger Nachbearbeitung reduzieren.",
+      "endnutzerRelevanz": "Zuverlässigere Druckteile könnten sicherheitskritische Metallkomponenten in Luftfahrt, Fahrzeugbau oder Medizintechnik schneller qualifizierbar machen.",
+      "flag": "Bislang wurden 316L-Proben unter Laborbedingungen untersucht. Übertragbarkeit auf andere Legierungen, große Bauteile, Baugeschwindigkeit und Langzeitfestigkeit sind noch nicht belegt.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/wuhan-laser-shock-lpbf.jpg",
+        "alt": "Schema der räumlichen und fasergekoppelten Doppelstrahl-Anordnung sowie der Laserstoßwirkung im LPBF-Schmelzbad",
+        "credit": "Abbildung: Hu-Yaowu-Team / Wuhan University",
+        "quelleUrl": "https://news.whu.edu.cn/info/1015/501547.htm"
+      }
+    },
+    {
+      "id": "research-2026-08-27-esrf-superalloy-s3dxrd",
+      "storyId": "story-esrf-superalloy-s3dxrd",
+      "storyTitel": "ESRF · dreidimensionale Innenkarte einer gedruckten Superlegierung",
+      "beziehung": "original",
+      "thema": "Eine zerstörungsfreie 3D-Karte verfolgt 37.000 Karbide in einer gedruckten Superlegierung.",
+      "kategorie": "Material & Werkstoffe",
+      "organisation": "European Synchrotron Radiation Facility / RMIT University",
+      "ort": "Grenoble, Frankreich / Melbourne, Australien",
+      "ereignisDatum": "2026-08-27",
+      "veroeffentlichungsDatum": "2026-09-07",
+      "erfasstAm": "2026-09-08",
+      "quelleUrl": "https://www.esrf.fr/home/news/general/content-news/general/additive-manufacturing-superalloy-revealed-in-detailed-3d.html",
+      "quelleName": "European Synchrotron Radiation Facility",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Nature Communications",
+          "url": "https://doi.org/10.1038/s41467-026-77198-5"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "zerstörungsfreier 3D-Messnachweis",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Mit scannender 3D-Röntgendiffraktion kartierte das ESRF-geführte Team in einer per Directed Energy Deposition gefertigten Nickel-Superlegierung 82 Kristallkörner und mehr als 37.000 Karbide bei 200 Nanometer Auflösung. Die Messung verbindet Orientierung, elastische Dehnung, Eigenspannung und chemisch geprägte Karbidarchitektur erstmals zerstörungsfrei in drei Dimensionen.",
+      "wasIstNeu": "Statt Chemie, Kristallorientierung und Eigenspannungen getrennt zu untersuchen, macht die Methode ihr räumliches Zusammenspiel in einem additiv gefertigten Volumen sichtbar. Ein modernisiertes Diffraktometer erfasst größere Proben dabei 25-mal schneller.",
+      "relevanz": "Die Karten zeigen, wie schnelle Erstarrung Karbide und lokale Spannungsmuster erzeugt, und können dadurch die Auswahl von Druckparametern für haltbarere Turbinen- oder Triebwerksbauteile unterstützen.",
+      "endnutzerRelevanz": "Langfristig kann die zerstörungsfreie Analyse helfen, gedruckte Hochtemperaturteile gezielter zu verbessern und Ausfälle in Energie- und Luftfahrtsystemen zu vermeiden.",
+      "flag": "Die Studie untersucht eine kleine ABD-900AM-Probe und demonstriert vor allem die Analysemethode. Eine direkte Verbesserung der Bauteillebensdauer wurde noch nicht nachgewiesen; Luftfahrtanwendungen sind Dual-Use.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 8,
+        "wowFaktor": 9,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/esrf-superalloy-s3dxrd.jpg",
+        "alt": "Rekonstruiertes S3DXRD-Volumen der säulenförmigen Kristallkörner in der gedruckten Nickel-Superlegierung",
+        "credit": "Abbildung: ESRF / Forschungsteam der Nature-Communications-Studie",
+        "quelleUrl": "https://www.esrf.fr/home/news/general/content-news/general/additive-manufacturing-superalloy-revealed-in-detailed-3d.html"
       }
     }
   ]
