@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-08",
+    "aktualisiertAm": "2026-09-09",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1307,6 +1307,88 @@
         "alt": "Rekonstruiertes S3DXRD-Volumen der säulenförmigen Kristallkörner in der gedruckten Nickel-Superlegierung",
         "credit": "Abbildung: ESRF / Forschungsteam der Nature-Communications-Studie",
         "quelleUrl": "https://www.esrf.fr/home/news/general/content-news/general/additive-manufacturing-superalloy-revealed-in-detailed-3d.html"
+      }
+    },
+    {
+      "id": "industry-2026-09-09-shimadzu-cu-aln-multibeam",
+      "storyId": "story-shimadzu-cu-aln-multibeam",
+      "storyTitel": "Shimadzu · direkt gedruckte Kupferschaltungen auf Aluminiumnitrid",
+      "beziehung": "original",
+      "thema": "Blaue Laser drucken Kupferschaltungen direkt auf wärmeleitende Keramiksubstrate.",
+      "kategorie": "Fertigung & Industrie",
+      "organisation": "Shimadzu Corporation / Osaka University / DOWA Power Device",
+      "ort": "Kyoto / Ibaraki / Shiojiri, Japan",
+      "ereignisDatum": "2026-09-09",
+      "veroeffentlichungsDatum": "2026-09-09",
+      "erfasstAm": "2026-09-09",
+      "quelleUrl": "https://www.shimadzu.com/news/2026/tkxkjciu7hd9dqr1.html",
+      "quelleName": "Shimadzu Corporation",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Shimadzu Corporation (Deutsch)",
+          "url": "https://www.shimadzu.com/de/news/2026/tkxkjciu7hd9dqr1.html"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "erstmalige praktische Anwendung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Shimadzu, die Osaka University und DOWA Power Device führen Kupfer-Aluminiumnitrid-Substrate praktisch ein, deren Leiterbahnen per Multi-Beam-Auftrag direkt auf die Keramik gedruckt werden. Mehrere blaue Diodenlaser schmelzen zugeführtes Kupferpulver, ohne silberhaltiges Hartlot. Die Verbindung zeigt geringe Restspannungen und mehr als die dreifache Temperaturwechselbeständigkeit konventioneller Substrate.",
+      "wasIstNeu": "Erstmals wird ein Aluminiumnitrid-Substrat durch gleichzeitige Kupferpulverzufuhr und mehrere blaue Laser direkt mit frei formbaren Kupferelektroden beschichtet und praktisch eingesetzt.",
+      "relevanz": "Das Verfahren verbindet Wärmeableitung, elektrische Isolation und feine Schaltungsgeometrien, während es silberbedingte Isolationsfehler und Hochtemperatur-Lötprozesse vermeidet.",
+      "endnutzerRelevanz": "Leistungsfähigere Halbleitermodule könnten in AI-Servern, Kommunikationstechnik und medizinischen Lasern kompakter und temperaturbeständiger werden.",
+      "flag": "Die Leistungsangaben stammen aus der gemeinsamen Unternehmensentwicklung. Produktionsvolumen, Kosten und unabhängige Langzeitdaten wurden nicht veröffentlicht; Satellitenanwendungen sind Dual-Use.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/shimadzu-cu-aln-multibeam.jpg",
+        "alt": "Aluminiumnitrid-Platte, direkt aufgedruckte Kupferschaltungen und getrennte Vorder- und Rückseite des fertigen Substrats",
+        "credit": "Foto: Shimadzu Corporation",
+        "quelleUrl": "https://www.shimadzu.com/news/2026/tkxkjciu7hd9dqr1.html"
+      }
+    },
+    {
+      "id": "material-2026-09-01-sumitomo-gutenberg-lcp",
+      "storyId": "story-sumitomo-gutenberg-lcp",
+      "storyTitel": "Sumitomo Chemical und Gutenberg · druckbares Hochleistungs-LCP",
+      "beziehung": "original",
+      "thema": "Ein neues LCP-Filament verbindet FFF-Druckbarkeit mit aluminiumähnlicher Festigkeit.",
+      "kategorie": "Material & Werkstoffe",
+      "organisation": "Sumitomo Chemical / Gutenberg",
+      "ort": "Tokio, Japan",
+      "ereignisDatum": "2026-09-01",
+      "veroeffentlichungsDatum": "2026-09-01",
+      "erfasstAm": "2026-09-09",
+      "quelleUrl": "https://www.sumitomo-chem.co.jp/news/detail/20260901.html",
+      "quelleName": "Sumitomo Chemical",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Gutenberg",
+          "url": "https://gutenberg.co.jp/news/2026-09-01-sumitomo-chemical-lcp-filament"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "industrieller Material- und Prozessnachweis",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Sumitomo Chemical entwickelte ein Flüssigkristallpolymer als FFF-Filament; Gutenberg passte den Druckprozess seiner G-ZERO-Systeme an. Durch kontrollierte Molekülorientierung entstehen stabil gedruckte, leichte Bauteile mit hoher Wärmeleitfähigkeit, geringer Dielektrizität, guter Dimensionsstabilität und einer unter festgelegten ISO-Testbedingungen mit Aluminiumlegierungen vergleichbaren Bruchfestigkeit.",
+      "wasIstNeu": "Materialrezeptur, Filamentherstellung und Druckführung wurden gemeinsam so abgestimmt, dass das bislang schwer extrudierbare Hochleistungs-LCP stabil zu komplexen Teilen verarbeitet werden kann.",
+      "relevanz": "Das Material kann metallische oder spritzgegossene Funktionsteile dort ersetzen, wo Wärme, Hochfrequenzsignale, geringes Gewicht und kleine Stückzahlen zusammentreffen.",
+      "endnutzerRelevanz": "Mögliche Anwendungen reichen von Halbleitertechnik und Roboterhänden bis zu Kommunikationstechnik und eVTOL-Komponenten.",
+      "flag": "Die Unternehmen planen Musterlieferungen erst im weiteren Verlauf des Jahres. Festigkeitsvergleich, Prozessfenster und Dauerhaltbarkeit sind nur für definierte interne Testbedingungen beschrieben; Raumfahrt- und Verteidigungsoptionen sind Dual-Use. Da kein separates Abschlussdatum genannt wird, bildet die offizielle gemeinsame Veröffentlichung das Ereignisdatum.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 8,
+        "wowFaktor": 7,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/sumitomo-gutenberg-lcp.png",
+        "alt": "Mehrere komplex geformte, beige LCP-Funktionsteile aus dem FFF-Druck",
+        "credit": "Foto: Gutenberg / Sumitomo Chemical",
+        "quelleUrl": "https://gutenberg.co.jp/news/2026-09-01-sumitomo-chemical-lcp-filament"
       }
     }
   ]
