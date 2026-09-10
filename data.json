@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-09",
+    "aktualisiertAm": "2026-09-10",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1389,6 +1389,88 @@
         "alt": "Mehrere komplex geformte, beige LCP-Funktionsteile aus dem FFF-Druck",
         "credit": "Foto: Gutenberg / Sumitomo Chemical",
         "quelleUrl": "https://gutenberg.co.jp/news/2026-09-01-sumitomo-chemical-lcp-filament"
+      }
+    },
+    {
+      "id": "research-2026-08-03-dzl-biohybrid-lung-membrane",
+      "storyId": "story-dzl-biohybrid-lung-membrane",
+      "storyTitel": "MHH und RWTH Aachen · 3D-gedruckte Membran für die Biohybridlunge",
+      "beziehung": "original",
+      "thema": "Eine 3D-gedruckte Membran steigert die Sauerstoffübertragung künstlicher Lungen um bis zu 88 Prozent.",
+      "kategorie": "Medizin & Körper",
+      "organisation": "Medizinische Hochschule Hannover / RWTH Aachen / Deutsches Zentrum für Lungenforschung",
+      "ort": "Hannover / Aachen, Deutschland",
+      "ereignisDatum": "2026-08-03",
+      "veroeffentlichungsDatum": "2026-09-03",
+      "erfasstAm": "2026-09-10",
+      "quelleUrl": "https://dzl.de/news/3d-membran-aus-dem-drucker-ebnet-den-weg-zur-biohybridlunge/",
+      "quelleName": "Deutsches Zentrum für Lungenforschung",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Advanced Materials",
+          "url": "https://doi.org/10.1002/adma.74361"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "peer-reviewter Labornachweis",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Team entwickelte eine 3D-druckbare Membran aus biokompatiblem Silikonpolymer, deren dreifach-periodische Minimaloberfläche ein durchgängiges Strömungsnetz bildet. Die optimierte TPMS-Architektur übertrug im Labor bis zu 88 Prozent mehr Sauerstoff als herkömmliche Hohlfasermembranen, verringerte schlecht durchströmte Bereiche und lässt sich mit gefäßauskleidenden Endothelzellen besiedeln.",
+      "wasIstNeu": "Eine passgenau druckbare TPMS-Membran verbindet effizienteren Gasaustausch, kompakte Bauweise und eine Oberfläche, die künftig biologisch ausgekleidet werden kann. Die Ergebnisse wurden am 3. August 2026 in Advanced Materials veröffentlicht.",
+      "relevanz": "Die Architektur adressiert zugleich zwei Grenzen heutiger ECMO-Systeme: begrenzten Gasaustausch und Gerinnungsrisiken an künstlichen Oberflächen. Sie könnte kompaktere Unterstützungssysteme und langfristig implantierbare Biohybridlungen ermöglichen.",
+      "endnutzerRelevanz": "Menschen mit schwerem Lungenversagen könnten langfristig von kleineren, blutverträglicheren Lungenunterstützungssystemen und später möglicherweise individuell gedruckten künstlichen Lungenteilen profitieren.",
+      "flag": "Frühe Laborforschung; Implantation, Langzeit-Blutkontakt und klinische Wirksamkeit sind noch nicht belegt. Das Ereignisdatum entspricht der Online-Veröffentlichung der Originalstudie, die offizielle DZL-Meldung folgte am 3. September 2026.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 10,
+        "wowFaktor": 9,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/dzl-biohybrid-lung.png",
+        "alt": "Bettina Wiegmann hält zwei gedruckte Membranproben neben einem Modell eines Membranoxygenators",
+        "credit": "Foto: Karin Kaiser / MHH",
+        "quelleUrl": "https://dzl.de/news/3d-membran-aus-dem-drucker-ebnet-den-weg-zur-biohybridlunge/"
+      }
+    },
+    {
+      "id": "product-2026-09-09-apple-iphone-duo-hinge",
+      "storyId": "story-apple-iphone-duo-3d-printed-hinge-cover",
+      "storyTitel": "Apple · 3D-gedruckte Scharnierabdeckung im iPhone Duo",
+      "beziehung": "original",
+      "thema": "Eine 3D-gedruckte Scharnierabdeckung aus Recycling-Titan wird Teil eines Serien-Smartphones.",
+      "kategorie": "Konsum & Alltag",
+      "organisation": "Apple",
+      "ort": "Cupertino, Kalifornien, USA",
+      "ereignisDatum": "2026-09-09",
+      "veroeffentlichungsDatum": "2026-09-09",
+      "erfasstAm": "2026-09-10",
+      "quelleUrl": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "quelleName": "Apple Newsroom",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Apple Newsroom (Deutsch)",
+          "url": "https://www.apple.com/at/newsroom/2026/09/apple-unveils-iphone-duo/"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "angekündigte Serieneinführung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Apple stellte mit dem iPhone Duo sein erstes faltbares Smartphone vor. Die mehr als 100 Bauteile umfassende Präzisionsmechanik erhält eine 3D-gedruckte Scharnierabdeckung mit mikrogestrahlter Oberfläche; laut Hersteller besteht sie vollständig aus recyceltem Titan.",
+      "wasIstNeu": "Ein additiv gefertigtes Titanbauteil wird in die äußere Mechanik eines für den Massenmarkt angekündigten Smartphones integriert und dabei nicht nur konstruktiv, sondern auch als sichtbare Oberfläche eingesetzt.",
+      "relevanz": "Die Anwendung zeigt additive Metallfertigung in einem hochvolumigen Konsumprodukt, bei dem komplexe Geometrie, Festigkeit, Materialeffizienz und Oberflächenwirkung gleichzeitig zählen.",
+      "endnutzerRelevanz": "Käufer erhalten ein Scharnier, dessen gedruckte Abdeckung hohe Festigkeit mit einer gezielt abgesetzten Oberfläche und recyceltem Titan verbindet.",
+      "flag": "Herstellerangaben aus der Produktankündigung; Stückzahlen, Fertigungsverfahren und Zulieferer der Scharnierabdeckung wurden nicht genannt. Die tatsächliche Marktverfügbarkeit folgt nach der Vorstellung und ist daher noch nicht als erfolgte Serienauslieferung bewertet.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 9,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/apple-iphone-duo-hinge.jpg",
+        "alt": "Nahaufnahme des geöffneten iPhone Duo mit der mittig sitzenden Scharnierabdeckung",
+        "credit": "Bild: Apple",
+        "quelleUrl": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
       }
     }
   ]
