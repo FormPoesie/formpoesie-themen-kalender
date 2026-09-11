@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-10",
+    "aktualisiertAm": "2026-09-11",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1471,6 +1471,88 @@
         "alt": "Nahaufnahme des geöffneten iPhone Duo mit der mittig sitzenden Scharnierabdeckung",
         "credit": "Bild: Apple",
         "quelleUrl": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+      }
+    },
+    {
+      "id": "process-2026-09-10-fraunhofer-ultrasound-support-removal",
+      "storyId": "story-fraunhofer-ultrasound-support-removal",
+      "storyTitel": "Fraunhofer IAPT · automatisiertes Entstützen mit Ultraschall",
+      "beziehung": "original",
+      "thema": "Ultraschall löst Stützstrukturen innerhalb weniger Minuten automatisch von Metallbauteilen.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "Fraunhofer IAPT / Fraunhofer-Leistungszentrum IAMHH",
+      "ort": "Hamburg, Deutschland",
+      "ereignisDatum": "2026-09-10",
+      "veroeffentlichungsDatum": "2026-09-10",
+      "erfasstAm": "2026-09-11",
+      "quelleUrl": "https://www.iapt.fraunhofer.de/de/presse-medien/presseinformationen/Stuetzstrukturen_mit_Ultraschall_entfernen.html",
+      "quelleName": "Fraunhofer IAPT",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Fraunhofer IAPT (Englisch)",
+          "url": "https://www.iapt.fraunhofer.de/en/press-media/Press_releases/Support_Structure_Removal_Using_Ultrasound.html"
+        }
+      ],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "angemeldeter Verfahrensprototyp",
+      "vertrauensniveau": "Mittel",
+      "zusammenfassung": "Fraunhofer IAPT kombiniert bauteilspezifische Schwingungsanregungen mit gezielt angepassten Stützstrukturen. Hochfrequente mechanische Schwingungen erzeugen Resonanzen und lokale Spannungsspitzen an den Anbindungsstellen, sodass sich die Supports innerhalb weniger Minuten ohne manuellen Eingriff kontrolliert und laut Institut rückstandslos lösen.",
+      "wasIstNeu": "Das Sonodent-Verfahren automatisiert einen bislang überwiegend manuellen Nachbearbeitungsschritt durch das gemeinsame Design von Schwingungsanregung und Sollbruchverhalten der Stützstrukturen. Eine Patentanmeldung wurde eingereicht.",
+      "relevanz": "Automatisiertes Entstützen kann Bearbeitungszeit, Qualitätsschwankungen und den Kontakt von Beschäftigten mit Metallpulver reduzieren. Fraunhofer demonstriert den Ansatz zunächst für pulverbettgefertigte Metallteile aus der Dentaltechnik.",
+      "endnutzerRelevanz": "Kürzere und reproduzierbarere Nachbearbeitung könnte additiv gefertigte Dental- und Industriebauteile wirtschaftlicher und sicherer verfügbar machen.",
+      "flag": "Die Leistungsangaben stammen aus der offiziellen Institutsmeldung; unabhängige Messdaten und die Patentschrift sind noch nicht veröffentlicht. Die erste öffentliche Messevorführung ist für die Formnext im November 2026 angekündigt, daher bezeichnet der Eintrag noch keine breite industrielle Anwendung.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 7,
+        "quellenqualitaet": 8
+      },
+      "bild": {
+        "url": "assets/images/fraunhofer-ultrasound-support-removal.jpg",
+        "alt": "Metallische Stützstifte lösen sich während der Ultraschallbehandlung von einem additiv gefertigten Bauteil",
+        "credit": "Bild: Fraunhofer IAPT",
+        "quelleUrl": "https://www.iapt.fraunhofer.de/de/presse-medien/presseinformationen/Stuetzstrukturen_mit_Ultraschall_entfernen.html"
+      }
+    },
+    {
+      "id": "research-2026-09-09-ucl-self-sensing-titanium",
+      "storyId": "story-ucl-self-sensing-titanium",
+      "storyTitel": "UCL · intern selbstmessendes Titan aus dem Metall-3D-Druck",
+      "beziehung": "original",
+      "thema": "Eingebettete Dehnungssensoren machen 3D-gedrucktes Titan selbstüberwachend.",
+      "kategorie": "Material & Werkstoffe",
+      "organisation": "University College London / University of Oxford / University of Sheffield",
+      "ort": "London / Oxford / Sheffield, Großbritannien",
+      "ereignisDatum": "2026-09-09",
+      "veroeffentlichungsDatum": "2026-09-09",
+      "erfasstAm": "2026-09-11",
+      "quelleUrl": "https://www.nature.com/articles/s43246-026-01346-z",
+      "quelleName": "Communications Materials",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "DOI der Originalpublikation",
+          "url": "https://doi.org/10.1038/s43246-026-01346-z"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "peer-reviewter Funktionsnachweis",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Forschungsteam bettete mehrlagige Dehnungssensoren direkt in Ti-6Al-4V ein, während das Metall per Laser Powder Bed Fusion aufgebaut wurde. Hochauflösend gedruckte Polymer-Metall-Messgitter wurden durch das umgebende Pulver thermisch geschützt, überstanden den Einbettungsprozess elektrisch funktionsfähig und erfassten Dehnung unter mechanischer Belastung.",
+      "wasIstNeu": "Thermisch empfindliche Sensorschichten werden während eines Hochtemperatur-Metalldruckprozesses vollständig im Titan eingeschlossen, ohne ihre Messfunktion zu verlieren. Getestet wurden vier Architekturen aus kommerziellen Folien- und direkt gedruckten Messgittern mit unterschiedlichen Isolationsschichten.",
+      "relevanz": "Bauteile könnten ihren inneren mechanischen Zustand direkt melden, ohne nachträglich aufgeklebte Sensoren oder außenliegende Leitungen. Das ist für Strukturüberwachung in Luftfahrt, Medizintechnik und intelligenter Fertigung interessant.",
+      "endnutzerRelevanz": "Langfristig könnten Implantate und sicherheitskritische Metallteile Belastungen oder beginnende Schäden früher erkennbar machen und Wartung gezielter auslösen.",
+      "flag": "Laborstudie an eingebetteten Messgittern; Langzeitstabilität, Ermüdungsverhalten, Funkübertragung und Einsatz in realen Bauteilen sind noch nicht nachgewiesen. Luftfahrtanwendungen sind Dual-Use.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 9,
+        "wowFaktor": 9,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/ucl-self-sensing-titanium.png",
+        "alt": "Schema der Sensorfertigung, Einbettung im Titan-Pulverbett und elektrische Prüfung vor und nach dem Metall-3D-Druck",
+        "credit": "Abbildung: Bhatt et al., Communications Materials, CC BY 4.0",
+        "quelleUrl": "https://www.nature.com/articles/s43246-026-01346-z"
       }
     }
   ]
