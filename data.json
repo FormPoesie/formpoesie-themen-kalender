@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-11",
+    "aktualisiertAm": "2026-09-12",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1553,6 +1553,88 @@
         "alt": "Schema der Sensorfertigung, Einbettung im Titan-Pulverbett und elektrische Prüfung vor und nach dem Metall-3D-Druck",
         "credit": "Abbildung: Bhatt et al., Communications Materials, CC BY 4.0",
         "quelleUrl": "https://www.nature.com/articles/s43246-026-01346-z"
+      }
+    },
+    {
+      "id": "research-2026-08-07-oit-pp-warpage",
+      "storyId": "story-oit-pp-warpage-hybrid-fillers",
+      "storyTitel": "Osaka Institute of Technology · formstabilerer PP-3D-Druck",
+      "beziehung": "original",
+      "thema": "Talkum und Cellulose-Nanofasern senken den Verzug gedruckter Polypropylen-Teile um 81,8 Prozent.",
+      "kategorie": "Material & Werkstoffe",
+      "organisation": "Osaka Institute of Technology / Shizuoka University / Toyo Resin / Nitto Denko",
+      "ort": "Osaka / Shizuoka, Japan",
+      "ereignisDatum": "2026-08-07",
+      "veroeffentlichungsDatum": "2026-09-10",
+      "erfasstAm": "2026-09-12",
+      "quelleUrl": "https://www.u-presscenter.jp/article/131537",
+      "quelleName": "University Press Center Japan",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "DOI der Originalpublikation",
+          "url": "https://doi.org/10.1016/j.compscitech.2026.111809"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "peer-reviewter Materialnachweis",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Forschungsteam kombinierte Talkum und Cellulose-Nanofasern in gleichen Anteilen als Hybridfüllstoff für Polypropylen-Filament. Bei Fused Filament Fabrication verringerte die Kombination den Verzug der Probekörper um 81,8 Prozent gegenüber ungefülltem PP; Talkum allein erreichte 31,5 Prozent und Cellulose-Nanofasern allein 48,5 Prozent. Experimente und Mehrskalen-Simulationen zeigen, dass die unterschiedlichen Füllergeometrien gemeinsam die Kristallisationsschrumpfung und Spannungsentwicklung begrenzen.",
+      "wasIstNeu": "Nicht ein einzelner Füllstoff, sondern die komplementäre Kombination aus plättchenförmigem Talkum und faserförmiger Cellulose stabilisiert das während der Abkühlung stark schwindende PP besonders wirksam. Der Synergieeffekt wurde experimentell gemessen und durch numerische Analyse erklärt.",
+      "relevanz": "Polypropylen ist leicht, chemikalienbeständig und in Auto- sowie Haushaltsprodukten verbreitet, verzieht sich beim Filamentdruck aber stark. Die Hybridfüllung könnte kleine Serien, Ersatzteile und bedarfsgerechte Fertigung mit diesem etablierten Kunststoff praktikabler machen.",
+      "endnutzerRelevanz": "Formtreuere PP-Teile könnten robuste Alltags- und Ersatzprodukte mit weniger Ausschuss und Nacharbeit ermöglichen.",
+      "flag": "Die 81,8 Prozent beziehen sich auf definierte Laborprobekörper und eine konkrete Rezeptur. Bauteilgrößen, Langzeitmechanik, Recyclingfähigkeit und industrielle Prozessfenster sind noch nicht umfassend nachgewiesen.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 7,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/oit-pp-warpage-hybrid-fillers.jpg",
+        "alt": "Vergleich des Verzugs von reinem Polypropylen und PP mit Talkum-Cellulose-Nanofaser-Hybridfüllung sowie Schema der Füllstoffstruktur",
+        "credit": "Abbildung: Osaka Institute of Technology / University Press Center Japan",
+        "quelleUrl": "https://www.u-presscenter.jp/article/131537"
+      }
+    },
+    {
+      "id": "research-2026-09-09-uwe-neo-gemstone-hybrid-printing",
+      "storyId": "story-uwe-neo-gemstone-hybrid-printing",
+      "storyTitel": "UWE Bristol · Kristallkeime in 3D-gedruckten Platinstrukturen",
+      "beziehung": "original",
+      "thema": "Hybridfertigung schließt Kristallkeime während des Platin-3D-Drucks präzise in Schmuckstrukturen ein.",
+      "kategorie": "Mode & Objekt",
+      "organisation": "UWE Bristol Centre for Print Research / Meltio / 3DGBIRE / Create",
+      "ort": "Bristol, Großbritannien",
+      "ereignisDatum": "2026-09-09",
+      "veroeffentlichungsDatum": "2026-09-09",
+      "erfasstAm": "2026-09-12",
+      "quelleUrl": "https://meltio3d.com/growing-gemstones-with-hybrid-metal-3d-printing-in-platinum/",
+      "quelleName": "Meltio",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "UWE Bristol – Projektübersicht",
+          "url": "https://www.uwe.ac.uk/research/centres-and-groups/cate-research-overview/the-bridge-studios/projects"
+        }
+      ],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "offiziell dokumentierter Forschungsprototyp",
+      "vertrauensniveau": "Mittel",
+      "zusammenfassung": "Das Centre for Print Research der UWE Bristol integrierte einen Meltio Engine in ein fünfachsiges HAAS-Bearbeitungszentrum. Der Draht-Laser-Auftrag baut eine Platinstruktur auf, pausiert für das manuelle Platzieren eines Rubin- oder Saphirkeims und druckt anschließend um den Kristall weiter; dieselbe Anlage übernimmt zwischendurch die CNC-Bearbeitung. Eine per G-Code gesteuerte Absaugung sammelt Platinspäne und Nebenprodukte zur Rückgewinnung.",
+      "wasIstNeu": "Die 2026 vorgestellte Prozesskette verbindet Platin-Drahtauftrag, präzise Zwischenbearbeitung, gezieltes Einsetzen eines Kristallkeims und anschließendes Umschließen in einem durchgängigen hybriden Maschinenablauf. Die frühere Demonstration eines Rubins in Platin von 2024 wird damit zu einem systematischeren Fertigungsprozess weiterentwickelt.",
+      "relevanz": "Designer könnten Edelmetallstrukturen und darin eingebettete Kristalle ohne klassische Fassung geometrisch enger zusammenführen. Der Drahtprozess und die geschlossene Rückgewinnung adressieren zugleich den sorgfältigen Umgang mit wertvollem Platin.",
+      "endnutzerRelevanz": "Das Verfahren eröffnet Schmuckobjekte, bei denen Metallstruktur und wachsender oder eingesetzter Kristall konstruktiv miteinander verschmelzen.",
+      "flag": "Forschungsstand ohne peer-reviewte Leistungsdaten, Seriennachweis oder veröffentlichtes Kostenmodell. Das erstmalige Einbetten eines Rubins wurde bereits 2024 gemeldet; neu ist hier die dokumentierte hybride Prozessintegration samt Zwischenbearbeitung und Materialrückgewinnung.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 7,
+        "wowFaktor": 10,
+        "quellenqualitaet": 7
+      },
+      "bild": {
+        "url": "assets/images/uwe-neo-gemstone-platinum.jpeg",
+        "alt": "Nahaufnahme eines pinkfarbenen Kristallkeims in einer additiv aufgebauten Platinstruktur",
+        "credit": "Bild: UWE Bristol / Meltio",
+        "quelleUrl": "https://meltio3d.com/growing-gemstones-with-hybrid-metal-3d-printing-in-platinum/"
       }
     }
   ]
