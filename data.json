@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-12",
+    "aktualisiertAm": "2026-09-13",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1635,6 +1635,47 @@
         "alt": "Nahaufnahme eines pinkfarbenen Kristallkeims in einer additiv aufgebauten Platinstruktur",
         "credit": "Bild: UWE Bristol / Meltio",
         "quelleUrl": "https://meltio3d.com/growing-gemstones-with-hybrid-metal-3d-printing-in-platinum/"
+      }
+    },
+    {
+      "id": "research-2026-09-10-nwpu-circular-scan-eutectic-ceramic",
+      "storyId": "story-nwpu-circular-scan-eutectic-ceramic",
+      "storyTitel": "Northwestern Polytechnical University · rissärmere eutektische Keramik durch Kreisbahnen",
+      "beziehung": "original",
+      "thema": "Kreisförmig oszillierende Laserbahnen ermöglichen einen 55-Millimeter-Keramikblock ohne makroskopische Risse.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "Northwestern Polytechnical University",
+      "ort": "Xi’an, China",
+      "ereignisDatum": "2026-09-10",
+      "veroeffentlichungsDatum": "2026-09-10",
+      "erfasstAm": "2026-09-13",
+      "quelleUrl": "https://sklsp.nwpu.edu.cn/info/2441/13292.htm",
+      "quelleName": "State Key Laboratory of Solidification Processing, Northwestern Polytechnical University",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "DOI der Originalpublikation",
+          "url": "https://doi.org/10.1016/j.jmst.2026.07.021"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "peer-reviewter Verfahrensnachweis",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Team ersetzte beim Laser Directed Energy Deposition einer eutektischen Al₂O₃/GAP/ZrO₂-Keramik die geradlinig hin- und herlaufende Belichtung durch kreisförmig oszillierende Scanbahnen. Thermische Simulationen und Messungen zeigen, dass die wiederholte lokale Überdeckung Wärmeverlauf und Spannungsverteilung verändert und damit die Rissanfälligkeit senkt. So entstand ein dichter, 55 × 55 × 9 Millimeter großer Block ohne makroskopische Risse.",
+      "wasIstNeu": "Die Scanbahn dient nicht nur der Geometrieerzeugung, sondern wird gezielt als thermisch-mechanisches Werkzeug eingesetzt: Kreisende Überlappungen verlängern die Wärmeeinwirkung und verteilen kritische Zugspannungen anders als lineares Pendeln. Der Zusammenhang wurde über Temperaturhistorie, Spannungsmodellierung und einen größeren Demonstrator belegt.",
+      "relevanz": "Oxidische eutektische Keramiken behalten Festigkeit und Oxidationsbeständigkeit bei hohen Temperaturen, reißen beim schichtweisen Laserauftrag aber leicht. Eine rein prozessseitige Risskontrolle kann größere, komplexere Heißbauteile für Energie- und Luftfahrtanwendungen näher an die Fertigung bringen.",
+      "endnutzerRelevanz": "Langfristig könnten hitzebelastete Komponenten mit komplexen Kühl- oder Funktionsgeometrien zuverlässiger direkt aus Hochleistungskeramik aufgebaut werden.",
+      "flag": "Der Nachweis gilt für ein bestimmtes eutektisches Keramiksystem und einen 55 × 55 × 9 Millimeter großen Laborblock. Bauteile in Einsatzgröße, Langzeitfestigkeit, Thermoschockverhalten und industrielle Wiederholbarkeit sind noch nicht belegt; Luftfahrtanwendungen sind Dual-Use.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/nwpu-circular-scan-eutectic-ceramic.jpg",
+        "alt": "55 mal 55 mal 9 Millimeter großer, per kreisförmiger Laserbahn additiv gefertigter Keramikblock neben Mikroskopaufnahmen seiner eutektischen Struktur",
+        "credit": "Abbildung: Jiang et al. / Northwestern Polytechnical University",
+        "quelleUrl": "https://sklsp.nwpu.edu.cn/info/2441/13292.htm"
       }
     }
   ]
