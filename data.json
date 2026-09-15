@@ -1763,6 +1763,51 @@
         "credit": "Foto: Keesha Robinson / U.S. Army, Public Domain",
         "quelleUrl": "https://www.dvidshub.net/image/9814624/usace-transforms-dredged-sediment-into-3d-printed-oyster-reefs-bolster-coastal-resilience"
       }
+    },
+    {
+      "id": "access-2026-09-10-kallisio-stentra-patient-program",
+      "storyId": "story-kallisio-stentra-patient-access",
+      "storyTitel": "Kallisio · direkter Patientenzugang zum gedruckten Strahlenschutz-Mundstück",
+      "beziehung": "original",
+      "thema": "Ein Zugangsprogramm bringt individuell 3D-gedruckte Mundstücke direkt zu Patienten vor einer Kopf-Hals-Bestrahlung.",
+      "kategorie": "Medizin & Körper",
+      "organisation": "Kallisio",
+      "ort": "USA",
+      "ereignisDatum": "2026-09-10",
+      "veroeffentlichungsDatum": "2026-09-10",
+      "erfasstAm": "2026-09-15",
+      "quelleUrl": "https://www.businesswire.com/news/home/20260910348319/en/",
+      "quelleName": "Kallisio via Business Wire",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Kallisio – Patienteninformation und Ablauf",
+          "url": "https://kallisio.com/patient/"
+        },
+        {
+          "name": "FDA – 510(k)-Freigabe K232293",
+          "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K232293"
+        }
+      ],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "erweiterter Zugang zu einer klinisch eingesetzten Anwendung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Kallisio hat ein Zugangsprogramm erweitert, über das Patienten vor einer Kopf-Hals-Strahlentherapie ein individuell gefertigtes Stentra-Mundstück erhalten können, selbst wenn ihr Behandlungszentrum das System noch nicht regulär anbietet. Das Unternehmen stimmt die Eignung mit der Radioonkologie ab, organisiert einen digitalen Mundscan bei einem lokalen Zahnarzt und unterstützt die Einbindung in die Behandlung. Das FDA-freigegebene Mundstück wird patientenspezifisch 3D-gedruckt und während jeder Bestrahlung wiederverwendet, um Zunge, Lippen und weitere Strukturen reproduzierbar zu positionieren.",
+      "wasIstNeu": "Nicht das bereits seit 2023 FDA-freigegebene Gerät ist neu, sondern der direkte Zugangsweg: Geeignete Patienten können Kallisio selbst kontaktieren. Hat das behandelnde Zentrum Stentra noch nicht eingeführt, will das Unternehmen das Mundstück im passenden Fall finanzieren und die beteiligten Praxen koordinieren.",
+      "relevanz": "Der Schritt übersetzt eine patientenspezifische 3D-Druck-Anwendung aus einzelnen Klinikprogrammen in einen konkreten Zugang für Betroffene. Die digitale Kette vom intraoralen Scan bis zum einsatzbereiten Mundstück dauert laut Hersteller bis zu 72 Stunden und soll gesundes Gewebe aus dem hoch dosierten Strahlenfeld heraushalten.",
+      "endnutzerRelevanz": "Patienten erhalten eine konkrete Möglichkeit, vor Beginn ihrer Strahlentherapie nach einem individuell gedruckten Schutz- und Positionierungsmundstück zu fragen, auch wenn ihre Klinik es bislang nicht standardmäßig nutzt.",
+      "flag": "Die FDA-Freigabe und die Zweckbestimmung des Geräts sind behördlich belegt. Ausweitung, Finanzierung und bisherige klinische Erfahrungen werden jedoch vom Hersteller berichtet; die angekündigten detaillierten Ergebnisse sind noch nicht peer-reviewt veröffentlicht. Das Programm garantiert weder die medizinische Eignung noch die Versorgung jedes anfragenden Patienten.",
+      "bewertungen": {
+        "neuheitsgrad": 6,
+        "relevanz": 9,
+        "wowFaktor": 7,
+        "quellenqualitaet": 8
+      },
+      "bild": {
+        "url": "assets/images/kallisio-stentra-patient-access.jpg",
+        "alt": "Individuell geformtes weißes Stentra-Mundstück mit Zahnabdruck in einer geöffneten Aufbewahrungsbox",
+        "credit": "Bild: Kallisio",
+        "quelleUrl": "https://kallisio.com/patient/"
+      }
     }
   ]
 }
