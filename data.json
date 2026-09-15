@@ -1718,6 +1718,51 @@
         "credit": "Bild: Atlas / MIT News, CC BY-NC-ND",
         "quelleUrl": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914"
       }
+    },
+    {
+      "id": "deployment-2026-07-09-usace-mobile-bay-oyster-reefs",
+      "storyId": "story-usace-mobile-bay-oyster-reefs",
+      "storyTitel": "USACE · gedruckte Austernriffe aus Hafensediment",
+      "beziehung": "original",
+      "thema": "Sechs 3D-gedruckte Riffkuppeln aus Hafensediment schaffen neuen Lebensraum für Austern in der Mobile Bay.",
+      "kategorie": "Natur & Umwelt",
+      "organisation": "U.S. Army Engineer Research and Development Center / USACE Mobile District / Mobile Bay National Estuary Program",
+      "ort": "Coden, Mobile Bay, Alabama, USA",
+      "ereignisDatum": "2026-07-09",
+      "veroeffentlichungsDatum": "2026-07-20",
+      "erfasstAm": "2026-09-15",
+      "quelleUrl": "https://www.erdc.usace.army.mil/Media/News-Stories/Article/4550171/erdc-usace-mobile-district-deploy-innovative-3d-printed-oyster-reefs-in-mobile/",
+      "quelleName": "U.S. Army Engineer Research and Development Center",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "DVIDS – offizielles Bild und Aufnahmedatum",
+          "url": "https://www.dvidshub.net/image/9814624/usace-transforms-dredged-sediment-into-3d-printed-oyster-reefs-bolster-coastal-resilience"
+        },
+        {
+          "name": "WALA – Bericht vom Tag der Ausbringung",
+          "url": "https://www.fox10tv.com/2026/07/09/3d-printed-reefs-limestone-two-mobile-bay-projects-aim-rebuild-coastal-habitat/"
+        }
+      ],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "öffentlich dokumentierter Feldversuch",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "ERDC und der USACE Mobile District verwandelten feinkörniges Sediment aus dem Mobile-Harbor-Schifffahrtskanal in sechs additiv gefertigte, naturinspirierte Riffkuppeln und brachten sie am 9. Juli in der Mobile Bay aus. Öffnungen, Schichten und unterschiedliche Oberflächen erzeugen Hartsubstrat und Mikrohabitate für Austernlarven, Seepocken, Fische und Krebse. Der Feldversuch vergleicht reine Sedimentkörper mit Varianten, denen Austernschalen beigemischt sind.",
+      "wasIstNeu": "Material, das beim Freihalten der Fahrrinne anfällt, wird nicht nur entsorgt oder verteilt, sondern direkt als geometrisch gestalteter Riffbaustoff wieder in dasselbe Küstensystem zurückgeführt. Die sechs Strukturen erweitern einen einzelnen Pilotkörper von 2025 zu einem vergleichenden Feldversuch unter realen Gezeitenbedingungen.",
+      "relevanz": "Austernriffe filtern Wasser, schaffen Lebensraum, brechen Wellenenergie und halten Sediment zurück. Wenn sich das Verfahren bewährt, könnten Küstenschutz und Baggergutverwertung in einem lokal verfügbaren, bedarfsgerecht druckbaren System zusammenfinden.",
+      "endnutzerRelevanz": "Küstengemeinden könnten aus ohnehin anfallendem Hafensediment neue Meereslebensräume aufbauen und zugleich Erosion sowie Entsorgungsaufwand verringern.",
+      "flag": "Sechs Kuppeln bilden einen kleinen Feldversuch. Aussagen zur Besiedlung und Gezeitenfestigkeit stammen bislang vom Projektteam; unabhängige Langzeitdaten zu Haltbarkeit, Schadstoffbindung, ökologischer Wirkung und Skalierung stehen noch aus.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 9,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/usace-mobile-bay-oyster-reefs.jpg",
+        "alt": "Sechs kuppelförmige, schichtweise gedruckte Austernriffe aus rötlichem Hafensediment und hellen Austernschalen vor ihrer Ausbringung",
+        "credit": "Foto: Keesha Robinson / U.S. Army, Public Domain",
+        "quelleUrl": "https://www.dvidshub.net/image/9814624/usace-transforms-dredged-sediment-into-3d-printed-oyster-reefs-bolster-coastal-resilience"
+      }
     }
   ]
 }
