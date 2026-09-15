@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-13",
+    "aktualisiertAm": "2026-09-15",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1676,6 +1676,47 @@
         "alt": "55 mal 55 mal 9 Millimeter großer, per kreisförmiger Laserbahn additiv gefertigter Keramikblock neben Mikroskopaufnahmen seiner eutektischen Struktur",
         "credit": "Abbildung: Jiang et al. / Northwestern Polytechnical University",
         "quelleUrl": "https://sklsp.nwpu.edu.cn/info/2441/13292.htm"
+      }
+    },
+    {
+      "id": "deployment-2026-09-14-atlas-recycled-plastic-bridge",
+      "storyId": "story-atlas-recycled-plastic-bridge",
+      "storyTitel": "Atlas · Recyclingkunststoff-Träger für eine Feuchtgebietsbrücke",
+      "beziehung": "original",
+      "thema": "Großformatig 3D-gedruckte Recyclingkunststoff-Träger tragen eine zwölf Meter lange Feuchtgebietsbrücke.",
+      "kategorie": "Bauen & Architektur",
+      "organisation": "Atlas Building Composites / MIT HAUS / U.S. Army Corps of Engineers",
+      "ort": "Massachusetts, USA",
+      "ereignisDatum": "2026-09-14",
+      "veroeffentlichungsDatum": "2026-09-14",
+      "erfasstAm": "2026-09-15",
+      "quelleUrl": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
+      "quelleName": "MIT News",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "MIT – technischer Trägernachweis",
+          "url": "https://news.mit.edu/2026/your-future-home-might-be-framed-with-printed-plastic-0203"
+        }
+      ],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "öffentlich dokumentierter Praxiseinsatz",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Atlas Building Composites, ein Spin-off aus dem MIT-HAUS-Projekt, lieferte großformatig additiv gefertigte Verbundträger für eine 40 Fuß lange Brücke des U.S. Army Corps of Engineers in einem Feuchtgebiet in Massachusetts. Zerkleinerter Einwegkunststoff wird ohne wasserbasierte Reinigung aufbereitet, mit Glasfasern verstärkt und zu Trägern für Böden, Wände, Dächer oder Brücken extrudiert. Die Brücke wurde laut MIT in weniger als einem Tag montiert.",
+      "wasIstNeu": "Der Ansatz verlässt den reinen Bauteilversuch: Bereits im Februar dokumentierte MIT acht Fuß lange Recycling-PET-Träger, die in weniger als 13 Minuten gedruckt wurden und als Bodensystem mehr als 4.000 Pfund trugen. Nun sind vergleichbare Verbundträger erstmals in der öffentlich dokumentierten Feuchtgebietsbrücke praktisch verbaut.",
+      "relevanz": "Großformatiger Kunststoffdruck kann schwer verwertbare Abfälle in leichte, lokal produzierbare Baukomponenten mit hoher Feuchtebeständigkeit überführen. Der reale Brückeneinsatz liefert einen wichtigen Schritt zwischen Labortest und Infrastrukturpraxis.",
+      "endnutzerRelevanz": "Lokale Mikrofabriken könnten künftig langlebige Stege, Gebäudeträger und Ersatzkomponenten aus regionalem Kunststoffabfall herstellen und schneller vor Ort montieren.",
+      "flag": "Das Ereignisdatum bezeichnet die öffentliche MIT-Dokumentation; ein genaues Installationsdatum nennt die Quelle nicht. Belastungsdaten stammen aus dem vorausgehenden MIT-Trägertest, nicht aus einer veröffentlichten Langzeitprüfung der Brücke. Kosten, Alterung, Brandschutz und das Lebensende des glasfaserverstärkten Verbunds sind noch nicht unabhängig belegt.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 9,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/atlas-recycled-plastic-bridge.jpg",
+        "alt": "Vier Personen gehen über eine Feuchtgebietsbrücke mit schwarzen, großformatig 3D-gedruckten Recyclingkunststoff-Trägern",
+        "credit": "Bild: Atlas / MIT News, CC BY-NC-ND",
+        "quelleUrl": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914"
       }
     }
   ]
