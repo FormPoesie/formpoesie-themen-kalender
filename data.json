@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-15",
+    "aktualisiertAm": "2026-09-16",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1807,6 +1807,88 @@
         "alt": "Individuell geformtes weißes Stentra-Mundstück mit Zahnabdruck in einer geöffneten Aufbewahrungsbox",
         "credit": "Bild: Kallisio",
         "quelleUrl": "https://kallisio.com/patient/"
+      }
+    },
+    {
+      "id": "access-2026-09-07-guide-dogs-first-hello-sonogram",
+      "storyId": "story-guide-dogs-first-hello-tactile-sonogram",
+      "storyTitel": "Guide Dogs · tastbare Ultraschallbilder für Menschen mit Sehverlust",
+      "beziehung": "original",
+      "thema": "Kostenlose 3D-Druckmodelle machen Ultraschallbilder für blinde und sehbehinderte Familien ertastbar.",
+      "kategorie": "Konsum & Alltag",
+      "organisation": "The Guide Dogs for the Blind Association",
+      "ort": "Vereinigtes Königreich",
+      "ereignisDatum": "2026-09-07",
+      "veroeffentlichungsDatum": "2026-09-07",
+      "erfasstAm": "2026-09-16",
+      "quelleUrl": "https://www.guidedogs.org.uk/first-hello/",
+      "quelleName": "Guide Dogs UK",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "ITV News – Bericht zum Start des Pilotprogramms",
+          "url": "https://www.itv.com/news/2026-09-06/new-pilot-to-turn-ultrasounds-into-3d-printed-moulds-for-parents-with-sight-loss"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "öffentlich gestartetes Inklusionsangebot",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Die britische Organisation Guide Dogs hat mit First Hello ein Pilotangebot gestartet, das gewöhnliche Ultraschallbilder aus der 20. Schwangerschaftswoche in individuelle, tastbare 3D-Druckmodelle übersetzt. Blinde und sehbehinderte Eltern, Großeltern sowie weitere Angehörige können ein Bild des zweidimensionalen Scans hochladen und erhalten kostenlos ein Relief, an dem sich Körperform und Lage des ungeborenen Kindes ertasten lassen. Für den ersten Durchlauf stehen rund 50 Modelle zur Verfügung.",
+      "wasIstNeu": "Das gedruckte Sonogramm wird nicht nur in einer Studie vorgeführt, sondern als kostenlos bestellbares Angebot für Betroffene bereitgestellt. Guide Dogs verbindet dafür einen einfachen Upload eines vorhandenen Klinikscans mit der Umwandlung in ein individuelles physisches Modell.",
+      "relevanz": "Ultraschalltermine und Papierausdrucke sind stark visuell geprägt. Das greifbare Modell überträgt denselben persönlichen Moment in einen zugänglichen Sinneskanal und zeigt, wie individualisierter 3D-Druck Barrieren in alltäglichen Gesundheits- und Familienerfahrungen abbauen kann.",
+      "endnutzerRelevanz": "Menschen mit Sehverlust können die Konturen ihres ungeborenen Kindes selbst ertasten, statt ausschließlich auf Beschreibungen sehender Personen angewiesen zu sein.",
+      "flag": "First Hello ist ein auf ungefähr 50 Drucke begrenztes Pilotprogramm und kein regulärer Bestandteil der pränatalen Diagnostik. Das Modell dient dem taktilen Erleben des vorhandenen Ultraschallbildes und ersetzt weder Untersuchung noch medizinische Befundung. Bestelldaten und Scans werden laut Guide Dogs von Hope & Glory verarbeitet.",
+      "bewertungen": {
+        "neuheitsgrad": 7,
+        "relevanz": 9,
+        "wowFaktor": 9,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/guide-dogs-first-hello-sonogram.webp",
+        "alt": "Ein werdendes Elternpaar hält gedruckte Ultraschallbilder und ein weißes, tastbares 3D-Relief seines ungeborenen Kindes in die Kamera",
+        "credit": "Bild: Guide Dogs UK",
+        "quelleUrl": "https://www.guidedogs.org.uk/first-hello/"
+      }
+    },
+    {
+      "id": "test-2026-09-11-skyrora-titanium-coated-leo-engine",
+      "storyId": "story-skyrora-made3d-titanium-engine-hot-fire",
+      "storyTitel": "Skyrora · heißgetestetes Multimaterial-Bauteil für einen Raketenmotor",
+      "beziehung": "original",
+      "thema": "Sechs Heißtests bestätigen ein additiv aufgebrachtes Titanbauteil mit rund 44 Prozent weniger Gewicht.",
+      "kategorie": "Raumfahrt & Mobilität",
+      "organisation": "Skyrora / MADE-3D-Konsortium",
+      "ort": "Loanhead, Midlothian, Schottland",
+      "ereignisDatum": "2026-09-11",
+      "veroeffentlichungsDatum": "2026-09-11",
+      "erfasstAm": "2026-09-16",
+      "quelleUrl": "https://www.adsadvance.co.uk/skyrora-completes-hot-fire-testing-of-advanced-leo-engine/",
+      "quelleName": "ADS Advance – Skyrora Member News",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Skyrora – additive Fertigung in Trägersystemen",
+          "url": "https://skyrora.com/technology/"
+        }
+      ],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "erfolgreicher Heißtest eines Multimaterial-Demonstrators",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Skyrora hat die Heißtestkampagne eines 3,5-Kilonewton-Triebwerks für niedrige Erdumlaufbahnen mit einem neu entwickelten, titanbeschichteten Bauteil abgeschlossen. Die Titanschichten entstanden auf dem unternehmenseigenen hybriden Skyprint-2-DED-System. Nach sechs Zündtests zeigten Röntgenaufnahmen laut Projektmeldung keine Schäden am modifizierten Bauteil.",
+      "wasIstNeu": "Das im europäischen MADE-3D-Projekt entwickelte Multimaterial-Konzept wurde aus der Fertigungsdemonstration in einen funktionierenden Raketenmotor überführt und unter realen thermischen sowie mechanischen Lasten gezündet. Der Ersatz einer nickelbasierten Lösung durch Titan verringert das Bauteilgewicht laut Skyrora um ungefähr 44 Prozent.",
+      "relevanz": "Hybrides Directed Energy Deposition kann verschiedene Werkstoffe innerhalb eines Bauteils dort einsetzen, wo ihre Eigenschaften benötigt werden. Ein bestandener Heißtest ist ein wichtiger Zwischenschritt von der Materialentwicklung zu leichteren und effizienteren Antriebskomponenten.",
+      "endnutzerRelevanz": "Leichtere Antriebsteile können langfristig die Nutzlast, Effizienz und Herstellung kleiner Trägersysteme verbessern; ein Einsatz in einem geflogenen Träger ist noch nicht belegt.",
+      "flag": "Das Ereignisdatum entspricht der öffentlichen Dokumentation; der genaue Tag der sechs Tests wird nicht genannt. Gewichtsreduktion und Schadensfreiheit stammen aus der Skyrora-Mitteilung über ADS Advance. Unabhängige Prüfberichte, Lebensdauerdaten und ein Flugnachweis liegen nicht vor; Raumfahrtantriebe sind Dual-Use-Technologie.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 8,
+        "wowFaktor": 9,
+        "quellenqualitaet": 8
+      },
+      "bild": {
+        "url": "assets/images/skyrora-titanium-engine-hot-fire.jpg",
+        "alt": "Ein Raketenmotor von Skyrora erzeugt während eines Heißtests einen hellen Flammenstrahl im Prüfstand",
+        "credit": "Foto: Skyrora / ADS Advance",
+        "quelleUrl": "https://www.adsadvance.co.uk/skyrora-completes-hot-fire-testing-of-advanced-leo-engine/"
       }
     }
   ]
