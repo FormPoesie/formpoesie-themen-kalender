@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-16",
+    "aktualisiertAm": "2026-09-17",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1889,6 +1889,51 @@
         "alt": "Ein Raketenmotor von Skyrora erzeugt während eines Heißtests einen hellen Flammenstrahl im Prüfstand",
         "credit": "Foto: Skyrora / ADS Advance",
         "quelleUrl": "https://www.adsadvance.co.uk/skyrora-completes-hot-fire-testing-of-advanced-leo-engine/"
+      }
+    },
+    {
+      "id": "launch-2026-09-04-selle-italia-unica",
+      "storyId": "story-selle-italia-unica-pressure-map-saddle",
+      "storyTitel": "Selle Italia · individuell gedruckter Fahrradsattel aus Druckmessdaten",
+      "beziehung": "original",
+      "thema": "Ein bestellbarer 3D-Druck-Sattel passt seine innere Gitterstruktur an das Druckprofil jedes Fahrers an.",
+      "kategorie": "Konsum & Alltag",
+      "organisation": "Selle Italia / idmatch",
+      "ort": "Misano Adriatico, Italien",
+      "ereignisDatum": "2026-09-04",
+      "veroeffentlichungsDatum": "2026-09-06",
+      "erfasstAm": "2026-09-17",
+      "quelleUrl": "https://www.selleitalia.com/unica/",
+      "quelleName": "Selle Italia",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "International Bike Festival – Veranstaltungsdaten 2026",
+          "url": "https://internationalbikefestival.com/info-utili/"
+        },
+        {
+          "name": "BIKE – Bericht von der Markteinführung",
+          "url": "https://www.bike-magazin.de/en/training/fitness/selle-italia-unica-3d-saddles-manufactured-to-individual-pressure-data/"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "bestellbarer, datengestützt individualisierter Konsumartikel",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Selle Italia hat beim International Bike Festival das Unica-Programm für individuell gefertigte Fahrradsättel vorgestellt und für Bestellungen über autorisierte Zentren geöffnet. Ein Bike-Fitter erfasst die Druckverteilung des Fahrers mit dem idmatch-System. Aus diesen Messdaten entsteht für jeden Auftrag eine eigene 3D-gedruckte Polster-Gitterstruktur; die äußere Form des gewählten SLR-3D- oder Novus-Boost-Evo-3D-Modells bleibt unverändert. Laut Hersteller wird der fertige Sattel innerhalb von drei Wochen an das Zentrum geliefert und dort am Fahrrad eingestellt.",
+      "wasIstNeu": "Bei üblichen 3D-gedruckten Sätteln sind die Dämpfungszonen für alle Käufer vorgegeben. Unica variiert stattdessen Steifigkeit und Dichte der inneren Gitterstruktur anhand der gemessenen Druckverteilung jedes einzelnen Fahrers und führt diese Personalisierung als regulär bestellbaren Ablauf ein.",
+      "relevanz": "Das Angebot zeigt additive Fertigung unmittelbar am Endkundenprodukt: Die individuelle Geometrie wird nicht nur ausgewählt, sondern erst aus realen Körper- und Belastungsdaten erzeugt. Werkzeuglose Gittervariation macht damit eine Einzelanfertigung in einer bestehenden Produktlinie praktikabel.",
+      "endnutzerRelevanz": "Radfahrer können einen Sattel bestellen, dessen gedruckte Polsterstruktur auf ihre eigene Sitzdruckverteilung abgestimmt ist, statt nur zwischen standardisierten Härtezonen zu wählen.",
+      "flag": "Verfügbarkeit, Ablauf und Lieferzeit sind auf der Herstellerseite dokumentiert; die Vorstellung auf dem Festival ist durch Veranstaltungs- und Fachmedienquellen belegt. Unabhängige Langzeittests oder klinische Nachweise für Komfort- und Leistungsversprechen liegen nicht vor. Individualisiert wird die innere Polsterstruktur, nicht die äußere Sattelform.",
+      "bewertungen": {
+        "neuheitsgrad": 7,
+        "relevanz": 8,
+        "wowFaktor": 7,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/selle-italia-unica-pressure-map.jpg",
+        "alt": "Radfahrer auf einem Messrad vor farbigen Druckkarten; daneben zeigt eine Sattelgrafik die gemessene Druckverteilung",
+        "credit": "Bild: Selle Italia",
+        "quelleUrl": "https://www.selleitalia.com/unica/"
       }
     }
   ]
