@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-17",
+    "aktualisiertAm": "2026-09-19",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -1934,6 +1934,86 @@
         "alt": "Radfahrer auf einem Messrad vor farbigen Druckkarten; daneben zeigt eine Sattelgrafik die gemessene Druckverteilung",
         "credit": "Bild: Selle Italia",
         "quelleUrl": "https://www.selleitalia.com/unica/"
+      }
+    },
+    {
+      "id": "milestone-2026-09-16-altadena-printed-home-walls",
+      "storyId": "story-altadena-wildfire-rebuild-3d-concrete-home",
+      "storyTitel": "Altadena · gedruckte Betonwände für den Wiederaufbau nach dem Eaton-Feuer",
+      "beziehung": "original",
+      "thema": "Die Beton-Druckphase eines genehmigten Wohnhauses für eine Waldbrandbetroffene ist abgeschlossen.",
+      "kategorie": "Bauen & Architektur",
+      "organisation": "PCI Builders / RIC Robotics / Stone River Dynamics",
+      "ort": "Altadena, Kalifornien, USA",
+      "ereignisDatum": "2026-09-16",
+      "veroeffentlichungsDatum": "2026-09-17",
+      "erfasstAm": "2026-09-19",
+      "quelleUrl": "https://www.constructionowners.com/press-release/3d-concrete-printing-completed-on-los-angeles-countys-first-approved-3d-printed-home",
+      "quelleName": "RIC Robotics via Construction Owners Club",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Altadena Now – lokaler Bericht zum Baufortschritt",
+          "url": "https://www.altadena-now.com/main/town-life/printing-finished-on-3d-printed-concrete-home-for-altadena-eaton-fire-survivor/"
+        },
+        {
+          "name": "Spectrum News – Baustellenbericht vom Juli 2026",
+          "url": "https://spectrumnews1.com/ca/la/wildfires/2026/07/20/eaton-fire-altadena-3d-printing"
+        }
+      ],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "abgeschlossene Druckphase eines genehmigten Wiederaufbauprojekts",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "RIC Robotics hat das Betonwandsystem eines spanisch gestalteten Wohnhauses in Altadena fertig gedruckt. Das von Los Angeles County genehmigte Projekt ersetzt das Haus von Cindy Lopez, das beim Eaton-Feuer zerstört wurde. Der Roboter setzte auch Bögen, Fensterbänke und Stürze nach dem individuellen Entwurf um. Elektro- und Sanitärarbeiten befinden sich nun in der Inspektion; die Dachbinder liegen bereit.",
+      "wasIstNeu": "Aus der zuvor genehmigten und begonnenen Baustelle ist ein klar belegter Baufortschritt geworden: Die komplette 3D-Betondruckphase der Wohnhauswände ist abgeschlossen. Das Projekt musste dafür einen von Los Angeles County akzeptierten Konstruktions- und Prüfweg für das neue Bauverfahren etablieren.",
+      "relevanz": "Der Fall verbindet 3D-Betondruck mit dem realen Wiederaufbau nach einer Katastrophe und zeigt, dass die Technik auch eine individuelle Wohnhausarchitektur mit Bögen und weiteren Details ausführen kann, statt nur standardisierte Demonstratoren zu produzieren.",
+      "endnutzerRelevanz": "Eine vom Waldbrand betroffene Eigentümerin erhält ein konkret im Bau befindliches Ersatzhaus mit nicht brennbaren Betonwänden; zugleich entsteht ein genehmigtes Praxisbeispiel für weitere Wiederaufbauprojekte in gefährdeten Regionen.",
+      "flag": "Fertiggestellt ist ausschließlich die 3D-gedruckte Betonwandphase, nicht das gesamte Haus. Dach, Haustechnik, Prüfungen und weitere Ausbauarbeiten stehen noch aus; eine Bewohnbarkeit oder spätere Feuerbeständigkeit des Gesamtgebäudes ist damit nicht belegt. Die Bezeichnung als erstes genehmigtes 3D-Druck-Wohnhaus des Countys stammt vom Projektteam und wird durch lokale Berichte gestützt.",
+      "bewertungen": {
+        "neuheitsgrad": 7,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 8
+      }
+    },
+    {
+      "id": "research-2026-07-29-paderborn-reprintable-photon-source",
+      "storyId": "story-paderborn-reprintable-quantum-light-source",
+      "storyTitel": "Universität Paderborn · neu druckbare Photonenpaar-Quelle auf Lithiumniobat",
+      "beziehung": "original",
+      "thema": "Ein 3D-nanogedruckter Wellenleiter erzeugt 4,357 Millionen Photonenpaare pro Sekunde und lässt sich entfernen und neu drucken.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "Universität Paderborn / Laser Zentrum Hannover / Leibniz Universität Hannover",
+      "ort": "Paderborn und Hannover, Deutschland",
+      "ereignisDatum": "2026-07-29",
+      "veroeffentlichungsDatum": "2026-07-29",
+      "erfasstAm": "2026-09-19",
+      "quelleUrl": "https://physik.uni-paderborn.de/en/integrated-quantum-optics/message/wieder-beschreibbare-lichtquellen-fuer-quantentechnologien-aus-dem-3d-drucker",
+      "quelleName": "Universität Paderborn",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Optics Express – peer-reviewte Originalpublikation",
+          "url": "https://doi.org/10.1364/OE.596879"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "peer-reviewter Demonstrator einer wiederbeschreibbaren Quantenlichtquelle",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Forschungsteam druckte per Zwei-Photonen-Polymerisation einen 1,5 Mikrometer breiten Polymer-Wellenleiter direkt auf einen periodisch gepolten Lithiumniobat-Dünnfilm. Die integrierte Quelle erzeugte durch spontane parametrische Fluoreszenz 4,357 Millionen Photonenpaare pro Sekunde auf dem Chip und erreichte ein Verhältnis echter zu zufälligen Koinzidenzen von ungefähr 404. Anschließend entfernte das Team den Wellenleiter vom Substrat und druckte ihn erneut; die neu gefertigte Struktur erreichte eine vergleichbare Leistung.",
+      "wasIstNeu": "Die photonische Funktion wird nicht dauerhaft in den teuren Chip geätzt, sondern als präzise Polymerstruktur aufgedruckt. Dass sich der Wellenleiter entfernen und mit vergleichbarer Funktion neu fertigen lässt, macht Fehlerkorrekturen und spätere Anpassungen am selben Lithiumniobat-Substrat möglich.",
+      "relevanz": "Photonenpaar-Quellen sind Grundbausteine für Quantenkommunikation, Sensorik und optische Informationsverarbeitung. Der wiederbeschreibbare Fertigungsweg kann Entwicklungszyklen verkürzen, Substrate wiederverwenden und die Herstellung integrierter Quantenchips flexibler machen.",
+      "endnutzerRelevanz": "Die Forschung ist noch ein Labordemonstrator, könnte aber langfristig kompaktere, reparierbare und ressourcenschonender gefertigte Komponenten für sichere Quantenkommunikation und Präzisionssensoren ermöglichen.",
+      "flag": "Demonstriert wurde eine integrierte Photonenpaar-Quelle im Labor, kein marktreifes Quantengerät. Die Paarerzeugungsrate ist ein On-Chip-Wert; Systemverluste außerhalb des Chips und industrielle Langzeitzuverlässigkeit sind damit nicht abgedeckt. Das Ereignisdatum entspricht der peer-reviewten Online-Veröffentlichung, die Hochschulmeldung folgte am 1. September 2026.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 8,
+        "wowFaktor": 9,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/paderborn-reprintable-photon-source.jpg",
+        "alt": "Schema des Polymer-Wellenleiters auf einem Lithiumniobat-Chip und Mikroskopie-Querschnitt der 1,5 Mikrometer breiten Druckstruktur",
+        "credit": "Abbildung: Sewidan et al., Optics Express / Universität Paderborn",
+        "quelleUrl": "https://physik.uni-paderborn.de/en/integrated-quantum-optics/message/wieder-beschreibbare-lichtquellen-fuer-quantentechnologien-aus-dem-3d-drucker"
       }
     }
   ]
