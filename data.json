@@ -2,10 +2,100 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-19",
+    "aktualisiertAm": "2026-09-20",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
+    {
+      "id": "deployment-2026-08-redress-deep-sea-eco-reefs",
+      "storyId": "story-redress-printed-deep-sea-coral-reefs",
+      "storyTitel": "REDRESS · 23 gedruckte Riffe für Kaltwasserkorallen",
+      "beziehung": "original",
+      "thema": "23 jeweils 600 Kilogramm schwere 3D-Druck-Riffe liegen in rund 1.000 Metern Tiefe vor Irland und Frankreich.",
+      "kategorie": "Natur & Umwelt",
+      "organisation": "University of Galway / Ifremer / Sorbonne Université / REDRESS",
+      "ort": "Porcupine Bank, Irland, und Biskaya, Frankreich",
+      "ereignisDatum": "2026-08-25",
+      "veroeffentlichungsDatum": "2026-09-20",
+      "erfasstAm": "2026-09-20",
+      "quelleUrl": "https://www.universityofgalway.ie/about-us/news-and-events/news-archive/2026/september/university-of-galway-part-of-international-mission-to-restore-deep-sea-coral-reefs-1.html",
+      "quelleName": "University of Galway",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "REDRESS – offizielle Übersicht der Restaurierungsmaßnahmen",
+          "url": "https://redress-project.eu/restoration-interventions-and-technologies/"
+        },
+        {
+          "name": "Marine Institute – Zeitplan der REDECOR-Forschungsfahrt",
+          "url": "https://www.marine.ie/site-area/infrastructure-facilities/research-vessels/foreign-vessel-surveys-0"
+        },
+        {
+          "name": "The Irish Times – Vor-Ort-Bericht",
+          "url": "https://www.irishtimes.com/environment/2026/09/20/irish-scientists-lay-3d-printed-reefs-in-pioneering-bid-to-restore-deep-sea-coral/"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "reale Installation gedruckter Tiefsee-Habitatstrukturen",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Ein Team der University of Galway hat gemeinsam mit Ifremer und der Sorbonne Université insgesamt 23 additiv gefertigte Riffstrukturen am Porcupine Bank vor Irland und im Guilvinec Canyon in der französischen Biskaya ausgebracht. Jede Struktur wiegt rund 600 Kilogramm, besteht aus CO₂-reduziertem Beton mit vulkanischem Material und besitzt Tunnel, Vorsprünge und Überhänge als Ansatzflächen und Schutzräume. Die Riffe wurden während der Forschungsfahrt vom 30. Juli bis 25. August in 900 bis 1.100 Metern Wassertiefe abgesenkt.",
+      "wasIstNeu": "Das REDRESS-Konzept ist nicht mehr nur als Restaurierungsplan dokumentiert: Die großformatigen 3D-Druckstrukturen wurden tatsächlich am Tiefseeboden installiert. Damit testet das Team in einer für Taucher nicht erreichbaren Tiefe, ob künstliche Startstrukturen die sehr langsame Erholung geschädigter Kaltwasserkorallenriffe beschleunigen können.",
+      "relevanz": "Kaltwasserkorallen wachsen nur wenige Millimeter pro Jahr und benötigen nach Schäden durch Grundschleppnetze sehr lange zur Erholung. Die Installation verbindet großformatige additive Fertigung mit einem langfristig überwachten Renaturierungsversuch in zwei europäischen Tiefseegebieten.",
+      "endnutzerRelevanz": "Das Projekt zeigt greifbar, dass 3D-Druck nicht nur Produkte erzeugt, sondern beschädigten Meereslebensräumen neue Besiedlungsflächen geben kann. Ob daraus dauerhaft ein funktionierendes Riff entsteht, wird erst die weitere Beobachtung zeigen.",
+      "flag": "Installiert wurden künstliche Trägerstrukturen, teils mit lebenden Korallenfragmenten, kein bereits ausgewachsenes Riff. Als Ereignisdatum ist der belegte Abschluss der REDECOR-Forschungsfahrt am 25. August eingetragen, nicht ein unbelegter einzelner Absenktag. Die University of Galway bestätigt Zahl, Abmessungen, Gewicht, Material, Tiefenbereich und reale Ausbringung; die ökologische Wirkung muss erst über Jahre beobachtet werden.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 10,
+        "wowFaktor": 10,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/redress-deep-sea-eco-reef.jpg",
+        "alt": "Eine helle, mehrstöckige 3D-gedruckte Riffstruktur steht neben orangefarbenen Kaltwasserkorallen auf dem Tiefseeboden des Porcupine Bank",
+        "credit": "Foto: Ifremer / REDECoR 2026",
+        "quelleUrl": "https://www.universityofgalway.ie/about-us/news-and-events/news-archive/2026/september/university-of-galway-part-of-international-mission-to-restore-deep-sea-coral-reefs-1.html"
+      }
+    },
+    {
+      "id": "installation-2026-09-04-como-volta-pile-robot",
+      "storyId": "story-como-volta-pile-robot-installation",
+      "storyTitel": "ComoNExT · robotisch montierte Volta-Säule aus 3D-Druckteilen",
+      "beziehung": "original",
+      "thema": "Ein Roboter setzt eine 3D-gedruckte Volta-Säule zusammen, bringt eine Lampe zum Leuchten und beginnt von vorn.",
+      "kategorie": "Konsum & Alltag",
+      "organisation": "ComoNExT Innovation Hub / NUGAE / Teatro Sociale di Como",
+      "ort": "Como, Italien",
+      "ereignisDatum": "2026-09-04",
+      "veroeffentlichungsDatum": "2026-09-05",
+      "erfasstAm": "2026-09-20",
+      "quelleUrl": "https://www.nugae.tech/en/news/pila-di-volta-replica-stampata-in-3d-teatro-sociale-como/",
+      "quelleName": "NUGAE",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "3Druck.com – Bericht zur Installation",
+          "url": "https://3druck.com/en/case-studies/3d-printing-reconstructs-voltas-battery-for-a-robotic-installation-in-como-19162949/"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "öffentlich eingesetzte robotische 3D-Druck-Installation",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Im Teatro Sociale di Como baut ein kollaborativer Roboter eine funktionsfähige Replik von Alessandro Voltas Säule aus 24 additiv gefertigten Scheiben zusammen. Sobald der Stapel geschlossen ist, bringt seine elektrische Spannung eine Lampe zum Leuchten. Danach zerlegt der Roboter die Säule und startet den Ablauf erneut. Auch Basen, Abdeckungen, Halterungen und die an die Bauteile angepassten Greifer wurden gedruckt; die kostenlose Installation ist vom 5. bis 27. September 2026 an Wochenenden öffentlich zu sehen.",
+      "wasIstNeu": "Die additiv gefertigten Komponenten dienen nicht als statisches Anschauungsmodell, sondern müssen in einer wiederholten öffentlichen Vorführung tausende präzise Greif-, Stapel- und Zerlegezyklen überstehen. Der 3D-Druck ermöglicht dabei sowohl die historische Nachbildung als auch objektspezifische Robotergreifer ohne eigene Werkzeuge.",
+      "relevanz": "Die Installation verbindet Wissenschaftsgeschichte, digitale Fertigung und Robotik in einem unmittelbar verständlichen Ablauf: Besucher sehen, wie ein gedrucktes Objekt mechanisch zusammengesetzt wird und dabei eine reale elektrische Funktion erfüllt.",
+      "endnutzerRelevanz": "Ein öffentliches Kulturangebot macht additive Fertigung und frühe Batterietechnik ohne abstrakte Kennzahlen sichtbar und erlebbar.",
+      "flag": "Die Anlage ist eine moderne Replik und Demonstration, nicht Voltas Original und keine neue Batterietechnologie. Die Angabe von 70 Prozent recyceltem Material ist eine Herstellerangabe zu CoreLight3D. Eröffnet wurde die Installation am 4. September; der öffentliche Besuch begann am 5. September.",
+      "bewertungen": {
+        "neuheitsgrad": 7,
+        "relevanz": 7,
+        "wowFaktor": 9,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/como-volta-pile-robot.jpeg",
+        "alt": "Ein kollaborativer Roboter greift eine Scheibe der 3D-gedruckten Volta-Säule in der Ausstellung in Como",
+        "credit": "Foto: NUGAE",
+        "quelleUrl": "https://www.nugae.tech/en/news/pila-di-volta-replica-stampata-in-3d-teatro-sociale-como/"
+      }
+    },
     {
       "id": "fp-2026-06-11-myths",
       "storyId": "story-formpoesie-3d-druck-mythen",
