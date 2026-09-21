@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-20",
+    "aktualisiertAm": "2026-09-21",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -2104,6 +2104,86 @@
         "alt": "Schema des Polymer-Wellenleiters auf einem Lithiumniobat-Chip und Mikroskopie-Querschnitt der 1,5 Mikrometer breiten Druckstruktur",
         "credit": "Abbildung: Sewidan et al., Optics Express / Universität Paderborn",
         "quelleUrl": "https://physik.uni-paderborn.de/en/integrated-quantum-optics/message/wieder-beschreibbare-lichtquellen-fuer-quantentechnologien-aus-dem-3d-drucker"
+      }
+    },
+    {
+      "id": "launch-2026-09-15-vgh-custom-splints",
+      "storyId": "story-vgh-onsite-printed-custom-splints",
+      "storyTitel": "Vancouver General Hospital · patientenspezifische Schienen aus dem 3D-Drucker",
+      "beziehung": "original",
+      "thema": "Eine Klinik druckt individuelle Hand- und Armschienen vor Ort und verkürzt die benötigte Therapiezeit auf rund 30 Minuten.",
+      "kategorie": "Medizin & Körper",
+      "organisation": "Vancouver General Hospital / Vancouver Coastal Health / PolyUnity",
+      "ort": "Vancouver, British Columbia, Kanada",
+      "ereignisDatum": "2026-09-15",
+      "veroeffentlichungsDatum": "2026-09-15",
+      "erfasstAm": "2026-09-21",
+      "quelleUrl": "https://news.gov.bc.ca/releases/2026HLTH0076-001070",
+      "quelleName": "Regierung von British Columbia",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "PolyUnity – dokumentierter Klinikablauf und Ereignisbilder",
+          "url": "https://www.polyunity.com/press-releases/vancouver-general-hospital-becomes-first-in-north-america-to-3d-print-custom-splints-on-site-in-partnership-with-polyunity"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "klinisch gestarteter Vor-Ort-Service für patientenspezifische Hilfsmittel",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Vancouver General Hospital produziert patientenspezifische Hand- und Armschienen nun direkt in der Klinik. Ergotherapeuten erfassen die Maße, PolyUnity erstellt daraus den digitalen Entwurf und übermittelt ihn zur Fertigung an das Krankenhaus. Die gedruckten Schienen bestehen aus einem nachträglich anpassbaren Spezialmaterial und werden bereits für Menschen mit Handverletzungen oder Verbrennungen eingesetzt. Nach Angaben der Provinz sinkt der klinische Zeitaufwand gegenüber der manuellen Anfertigung von bis zu zwei Stunden auf ungefähr 30 Minuten.",
+      "wasIstNeu": "Die Schienen werden nicht nur als Pilotmuster gezeigt, sondern als laufender patientenspezifischer Versorgungsprozess innerhalb eines großen Akutkrankenhauses hergestellt. Vancouver General Hospital bezeichnet sich dabei als erste nordamerikanische Klinik mit dieser konkreten Vor-Ort-Lösung; eine regionale Ausweitung ist vorbereitet.",
+      "relevanz": "Der Ablauf verbindet individuelle Vermessung, extern verantwortete digitale Konstruktion und lokale Fertigung am Behandlungsort. Damit wird additive Fertigung zu einem unmittelbar eingesetzten Werkzeug der Rehabilitation und entlastet zugleich hoch spezialisierte Ergotherapeuten.",
+      "endnutzerRelevanz": "Patienten können schneller eine an ihre Hand oder ihren Arm angepasste Schiene erhalten und früher mit ihrer Rehabilitation beginnen; geplante Standorte in ländlichen Regionen könnten zusätzlich Anfahrtswege verkürzen.",
+      "flag": "Belegt ist der gestartete klinische Herstellungsprozess, nicht eine kontrollierte Vergleichsstudie zu Heilungsverlauf oder Langzeithaltbarkeit. Die Zeitersparnis und die Einordnung als nordamerikanische Premiere stammen aus der offiziellen Regierungs- und Projektkommunikation. PolyUnity übernimmt Konstruktion und regulatorische Verantwortung; gedruckt wird vor Ort im Krankenhaus.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/vgh-custom-splint.webp",
+        "alt": "Ein Ergotherapeut befestigt eine weiße 3D-gedruckte Schiene mit schwarzem Band an Hand und Handgelenk einer Patientin",
+        "credit": "Foto: Vancouver Coastal Health / PolyUnity",
+        "quelleUrl": "https://www.polyunity.com/press-releases/vancouver-general-hospital-becomes-first-in-north-america-to-3d-print-custom-splints-on-site-in-partnership-with-polyunity"
+      }
+    },
+    {
+      "id": "research-2026-08-08-wake-forest-pancreatic-islets",
+      "storyId": "story-wake-forest-bioprinted-human-islets",
+      "storyTitel": "Wake Forest · biogedruckter Träger hält menschliche Inselzellen 21 Tage funktionsfähig",
+      "beziehung": "original",
+      "thema": "Mehr als 85 Prozent der gedruckten menschlichen Inselzellen überleben und reagieren drei Wochen lang auf Glukose.",
+      "kategorie": "Medizin & Körper",
+      "organisation": "Wake Forest Institute for Regenerative Medicine / Wake Forest University School of Medicine",
+      "ort": "Winston-Salem, North Carolina, USA",
+      "ereignisDatum": "2026-08-08",
+      "veroeffentlichungsDatum": "2026-09-16",
+      "erfasstAm": "2026-09-21",
+      "quelleUrl": "https://newsroom.wakehealth.edu/news-releases/2026/09/3d-printed-pancreatic-tissue-helps-insulin-producing-cells-function-longer",
+      "quelleName": "Atrium Health Wake Forest Baptist",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Acta Biomaterialia – peer-reviewte Originalpublikation",
+          "url": "https://doi.org/10.1016/j.actbio.2026.08.008"
+        },
+        {
+          "name": "PubMed – bibliografischer Nachweis und Abstract",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42570781/"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "peer-reviewter In-vitro-Demonstrator für skalierbaren Inselzell-Biodruck",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Forschende druckten gespendete menschliche Pankreas-Inselzellen in eine weiche Bioink aus Alginat und dezellularisierter menschlicher Pankreasmatrix. Nach der optimierten Extrusion blieben mehr als 85 Prozent der Zellen lebensfähig. Die Konstrukte enthielten bis zu 10.000 Inselzell-Äquivalente pro Milliliter und reagierten über 21 Tage weiterhin auf wechselnde Glukosekonzentrationen, während frei kultivierte Vergleichszellen deutlich an Funktion verloren.",
+      "wasIstNeu": "Die Studie kombiniert eine klinisch relevante hohe Zelldichte mit einem skalierbaren Druckprozess, länger erhaltener Insulinantwort und selektiver Stoffdurchlässigkeit. Kleine Moleküle wie Glukose und Insulin konnten den Träger passieren, größere Moleküle in der Größenordnung von Antikörpern wurden im Labortest zurückgehalten.",
+      "relevanz": "Eine stabile, nährstoffdurchlässige und potenziell immunabschirmende Umgebung adressiert mehrere Hürden zellbasierter Therapien für Typ-1-Diabetes. Der Ansatz liefert deshalb einen konkreten Fertigungs- und Materialschritt in Richtung belastbarer Inselzelltransplantate.",
+      "endnutzerRelevanz": "Langfristig könnte ein solcher Zellträger insulinproduzierende Transplantate besser schützen und deren Funktion erhalten. Aktuell entsteht daraus jedoch weder eine verfügbare Diabetesbehandlung noch ein vollständiges gedrucktes Organ.",
+      "flag": "Untersucht wurde ausschließlich ein gedruckter Gewebeträger mit gespendeten menschlichen Inselzellclustern im Labor. Es handelt sich weder um eine vollständige Bauchspeicheldrüse noch um eine Transplantation in Menschen. Tierversuche und weitere präklinische Prüfungen laufen; eine tatsächliche Immunabschirmung und Blutzuckerregulation nach Transplantation sind noch nicht belegt. Das Ereignisdatum entspricht der Online-Veröffentlichung des Papers, die Hochschulmeldung folgte am 16. September.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 9,
+        "wowFaktor": 9,
+        "quellenqualitaet": 10
       }
     }
   ]
