@@ -2,10 +2,91 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-21",
+    "aktualisiertAm": "2026-09-22",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
+    {
+      "id": "research-2026-09-17-supercritical-co2-fff-foam",
+      "storyId": "story-supercritical-co2-local-fff-foaming",
+      "storyTitel": "TU Darmstadt · lokal aktivierbare Schaumstränge im FFF-Druck",
+      "beziehung": "original",
+      "thema": "Überkritisches CO₂ erzeugt direkt in der Düse PETG-Stränge mit 75,3 Prozent Porosität.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "Technische Universität Darmstadt",
+      "ort": "Darmstadt, Deutschland",
+      "ereignisDatum": "2026-09-17",
+      "veroeffentlichungsDatum": "2026-09-17",
+      "erfasstAm": "2026-09-22",
+      "quelleUrl": "https://link.springer.com/article/10.1007/s40964-026-01953-9",
+      "quelleName": "Progress in Additive Manufacturing",
+      "zusaetzlicheQuellen": [],
+      "status": "Validiert",
+      "neuheitsstatus": "peer-reviewter Machbarkeitsnachweis für physikalisches Schäumen in der FFF-Düse",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Team führte über eine seitliche Öffnung überkritisches CO₂ in die PETG-Schmelze eines eigens gebauten FFF-Druckkopfs ein. Ein statischer Mischer homogenisierte das gasbeladene Material vor der 0,60-Millimeter-Düse. Bei 230 Grad Celsius, 40 Millimetern pro Sekunde und 105 bar entstanden gedruckte Ringproben mit insgesamt 75,3 Prozent Porosität; die µCT-Analyse zeigte 65,4 Prozent in einer 100 Mikrometer dicken Randzone und 79,5 Prozent im Kern.",
+      "wasIstNeu": "Die Poren entstehen in einem einzigen Druckschritt allein durch die CO₂-Zufuhr und ohne feste chemische Treibmittelrückstände. Das Zuschalten des Gases oberhalb einer massiven Bodenschicht erzeugte innerhalb derselben Bahn einen Übergang von massivem zu geschäumtem Material. Damit lässt sich die Dichte künftig nicht nur über die Geometrie des Füllmusters, sondern auch innerhalb des abgelegten Strangs beeinflussen.",
+      "relevanz": "Leichte, dämpfende oder wärmedämmende Bereiche könnten perspektivisch lokal in ein Bauteil gedruckt werden, ohne ein spezielles, bereits chemisch aufgeschäumtes Filament zu benötigen. Die Arbeit liefert dafür erstmals einen quantifizierten FFF-Aufbau mit überkritischem CO₂ direkt in der Düse.",
+      "endnutzerRelevanz": "Für Alltagsprodukte könnte dasselbe gedruckte Teil später außen dichter und innen leichter oder isolierender werden. Der gezeigte Aufbau ist jedoch noch ein Laborversuch und kein serienreifer Druckkopf.",
+      "flag": "Untersucht wurde nur eine manuell geregelte Ringprobe. Wiederholtes Ein- und Ausschalten, Reproduzierbarkeit und Langzeitstabilität wurden nicht geprüft; der massive-zu-poröse Übergang erstreckte sich noch über rund 60 Millimeter Druckweg. Die 75,3 Prozent sind eine µCT-Messung dieser einen Probe und kein allgemeiner Materialwert.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 8,
+        "wowFaktor": 8,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/supercritical-co2-fff-foaming.png",
+        "alt": "Schema des CO₂-gespeisten FFF-Druckkopfs neben Messkurven, Mikroskop- und µCT-Aufnahmen der porösen PETG-Stränge",
+        "credit": "Abbildung: Wüst, Dietz, Tessmann und Blaeser, 2026, CC BY 4.0",
+        "quelleUrl": "https://link.springer.com/article/10.1007/s40964-026-01953-9/figures/1"
+      }
+    },
+    {
+      "id": "deployment-2026-09-16-reefvive-coral-bases",
+      "storyId": "story-reefvive-marine-waste-coral-restoration",
+      "storyTitel": "Reefvive · gedruckte Korallenbasen aus Meeresabfällen",
+      "beziehung": "original",
+      "thema": "28 Korallen wachsen auf 3D-gedruckten Basen aus Austernschalen und Korallenschutt weiter.",
+      "kategorie": "Natur & Umwelt",
+      "organisation": "National Taiwan Normal University / National Taiwan Ocean University",
+      "ort": "Taiwan",
+      "ereignisDatum": "2026-09-16",
+      "veroeffentlichungsDatum": "2026-09-16",
+      "erfasstAm": "2026-09-22",
+      "quelleUrl": "https://www.jamesdysonaward.org/en-US/2026/project/reefvive",
+      "quelleName": "James Dyson Award",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "National Taiwan Normal University – Projekt- und Auszeichnungsbericht",
+          "url": "https://www.design.ntnu.edu.tw/?p=18810"
+        },
+        {
+          "name": "Dyson – nationale Gewinner und Finalisten 2026",
+          "url": "https://www.dyson.co.uk/discover/sustainability/james-dyson-award/introducing-our-james-dyson-award-2026-national-winners"
+        }
+      ],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "real im Meer erprobte 3D-Druck-Basen aus lokalen Reststoffen",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Reefvive-Team verarbeitet gebleichte Korallenbruchstücke und Austernschalen aus Taiwan zu einem zementfreien, 3D-druckbaren Material. Daraus entstehen gefaltete, raue und stapelbare Basen mit drei Stützbeinen, an denen Korallenfragmente befestigt werden. Gemeinsam mit der National Taiwan Ocean University wurden die Strukturen im Meer getestet: 28 Korallen wurden eingesetzt, die aktuell gemeldete Überlebensrate liegt bei 100 Prozent; außerdem wurden Algen, Fische, Einsiedlerkrebse und Kraken an den Modulen beobachtet.",
+      "wasIstNeu": "Reefvive ist nicht nur ein Material- oder Formkonzept. Die gedruckten Module wurden in einem realen Unterwasserversuch bepflanzt und bewohnt. Die am 16. September veröffentlichte nationale James-Dyson-Auswahl macht die konkreten Feldergebnisse erstmals international nachvollziehbar.",
+      "relevanz": "Das Projekt verbindet additive Fertigung, lokale Reststoffnutzung und Korallenrestaurierung in einem modularen System. Im Unterschied zu klassischen Betonbasen sollen die Elemente ohne Zement auskommen, sich werkzeuglos stapeln lassen und auf sandigem Meeresboden zusätzliche Schutzräume bilden.",
+      "endnutzerRelevanz": "Die Anwendung zeigt unmittelbar, wie 3D-Druck aus Abfallmaterialien reale Lebensräume im Meer schaffen kann. Sie ist bereits im Wasser erprobt, befindet sich aber noch vor einer großflächigen Restaurierung.",
+      "flag": "Die Projekt- und Hochschulseiten belegen 28 eingesetzte Korallen und eine aktuell gemeldete Überlebensrate von 100 Prozent, nennen aber weder den exakten Tag der Ausbringung noch Beobachtungsdauer, Standort oder unabhängige Langzeitdaten. Als Ereignisdatum ist deshalb die belastbare öffentliche Bekanntgabe vom 16. September eingetragen. Das Ergebnis belegt einen Feldtest, nicht die dauerhafte Wiederherstellung eines Korallenriffs.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 10,
+        "quellenqualitaet": 8
+      },
+      "bild": {
+        "url": "assets/images/reefvive-coral-restoration.jpg",
+        "alt": "Gestapelte Reefvive-Module mit eingesetzten Korallen auf dem Meeresboden neben zwei Entwicklerinnen und einem hellen 3D-gedruckten Demonstrationsmodul",
+        "credit": "Foto: Reefvive-Team / National Taiwan Normal University",
+        "quelleUrl": "https://www.design.ntnu.edu.tw/?p=18810"
+      }
+    },
     {
       "id": "deployment-2026-08-redress-deep-sea-eco-reefs",
       "storyId": "story-redress-printed-deep-sea-coral-reefs",
