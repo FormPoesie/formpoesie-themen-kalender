@@ -2,10 +2,91 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-22",
+    "aktualisiertAm": "2026-09-23",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
+    {
+      "id": "clinical-2026-08-17-monash-cranial-implants",
+      "storyId": "story-monash-patient-specific-cranial-implants",
+      "storyTitel": "Monash · patientenspezifische Schädelimplantate aus Titan",
+      "beziehung": "original",
+      "thema": "15 individuell 3D-gedruckte Schädelimplantate verkürzen Australiens Lieferzeit auf ein bis zwei Wochen.",
+      "kategorie": "Medizin & Körper",
+      "organisation": "Monash Centre for Additive Manufacturing / Personalised Surgery / Actis Medical",
+      "ort": "Melbourne, Australien",
+      "ereignisDatum": "2026-08-17",
+      "veroeffentlichungsDatum": "2026-08-17",
+      "erfasstAm": "2026-09-23",
+      "quelleUrl": "https://www.monash.edu/engineering/about/news/articles/2026/printing-a-new-future-for-patient-specific-cranial-implants",
+      "quelleName": "Monash University",
+      "zusaetzlicheQuellen": [],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "klinisch eingesetzte patientenspezifische Titanimplantate aus lokaler Fertigung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Monash University, Personalised Surgery und Actis Medical haben in Australien eine lokale Fertigungskette für patientenspezifische Schädelimplantate aus Titan aufgebaut. CT-Daten werden in eine exakt auf den Defekt zugeschnittene Geometrie übersetzt und anschließend im Metall-Pulverbett gedruckt. Laut Universität wurden bislang 15 Implantate ausgeliefert; die berichtete klinische Erfolgsrate liegt bei 100 Prozent. Statt vier bis zehn Wochen für einen Auslandsbezug dauert die lokale Herstellung gewöhnlich ein bis zwei Wochen, in dringenden Fällen sieben Tage.",
+      "wasIstNeu": "Die additive Fertigung ist hier keine reine Machbarkeitsstudie: Die individuell konstruierten Implantate wurden bereits für reale Patientenfälle produziert. Das Team kontrolliert dabei insbesondere den thermischen Verzug der sehr dünnen Titanstrukturen und verbindet Konstruktion, Druck, Wärmebehandlung und Drahtschneiden in einer lokalen Prozesskette.",
+      "relevanz": "Bei großen Schädeldefekten beeinflussen Passgenauigkeit und Lieferzeit direkt Operationsplanung und Versorgung. Die australische Fertigung verringert die Abhängigkeit von ausländischen Lieferketten und erlaubt kurzfristige, anatomisch individuelle Implantate.",
+      "endnutzerRelevanz": "Patientinnen und Patienten müssen bei einer komplexen Schädelrekonstruktion potenziell deutlich kürzer auf ihr maßgefertigtes Implantat warten. Es handelt sich um feste Titanimplantate, nicht um gedrucktes lebendes Gewebe oder ein vollständiges Organ.",
+      "flag": "Die Monash University berichtet 15 ausgelieferte Implantate und 100 Prozent klinischen Erfolg, veröffentlicht aber keine patientenbezogenen Falldaten, Nachbeobachtungsdauer oder Definition des Erfolgs. Die einzelnen Operationsdaten sind nicht genannt; als Ereignisdatum ist deshalb die belegte Veröffentlichung vom 17. August eingetragen.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 10,
+        "wowFaktor": 9,
+        "quellenqualitaet": 8
+      },
+      "bild": {
+        "url": "assets/images/monash-cranial-implant.jpg",
+        "alt": "Hände halten ein fein perforiertes, patientenspezifisches Titanimplantat passgenau an ein schwarzes Schädelmodell",
+        "credit": "Foto: Monash Centre for Additive Manufacturing",
+        "quelleUrl": "https://www.monash.edu/engineering/about/news/articles/2026/printing-a-new-future-for-patient-specific-cranial-implants"
+      }
+    },
+    {
+      "id": "research-2026-09-05-upc-reactive-bone-scaffold",
+      "storyId": "story-upc-reactive-dlp-bone-scaffold",
+      "storyTitel": "UPC · reaktive DLP-Gerüste für die Knochenregeneration",
+      "beziehung": "original",
+      "thema": "Ein DLP-gedrucktes Gerüst wandelt sich zu mehr als 92 Prozent in knochenähnliches Hydroxylapatit um.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "Universitat Politècnica de Catalunya / CIBER-BBN",
+      "ort": "Barcelona, Spanien",
+      "ereignisDatum": "2026-09-05",
+      "veroeffentlichungsDatum": "2026-09-05",
+      "erfasstAm": "2026-09-23",
+      "quelleUrl": "https://biomaterials.upc.edu/ca/portlet-papers/fagotto-clavijo-digital-light-processing-reactive-ceramic-polymer-bone-scaffolds-enables-in-situ-hydroxyapatite-formation-acta-biomaterialia",
+      "quelleName": "Universitat Politècnica de Catalunya – BBT",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "PubMed – bibliografischer Datensatz und Abstract",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42700782/"
+        },
+        {
+          "name": "Acta Biomaterialia – Originalpublikation",
+          "url": "https://doi.org/10.1016/j.actbio.2026.09.013"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "peer-reviewtes reaktives DLP-Verfahren für zähe Knochenersatzgerüste",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Team druckte mit LCD-DLP feine Gyroid-Gerüste aus PEGDA-Harz mit 50 Gewichtsprozent Alpha-Tricalciumphosphat und einer konstruierten offenen Porosität von 50 Prozent. Nach dem Druck wandelte eine Hydrolysereaktion mehr als 92 Prozent des Calciumphosphats in calciumarmes, biomimetisches Hydroxylapatit aus länglichen Nanokristallen um. Das entstehende ineinandergreifende Polymer-Keramik-Netzwerk verdoppelte die Druckfestigkeit gegenüber dem frisch gedruckten Zustand nahezu und behielt zugleich eine messbare Flexibilität.",
+      "wasIstNeu": "Statt ein gedrucktes Keramikgerüst bei hoher Temperatur zu sintern, härtet die reaktive Materialkombination bei niedriger Temperatur im Gerüst selbst nach. Dadurch entsteht gleichzeitig die knochenähnliche Mineralphase und eine zähere Verbundstruktur; auch die Energieaufnahme bis zum Versagen lag fast doppelt so hoch wie bei konventionell gesinterten Calciumphosphat-Gerüsten.",
+      "relevanz": "Klassische poröse Biokeramiken sind spröde. Eine hochauflösend druckbare und nachträglich mineralisierende Struktur könnte patientenspezifische Gerüste für die Knochenregeneration mechanisch robuster machen, ohne die für Zellbesiedlung wichtige Porosität aufzugeben.",
+      "endnutzerRelevanz": "Langfristig könnten stabilere, passgenau gedruckte Gerüste die Heilung größerer Knochendefekte unterstützen. Bisher wurden nur Materialeigenschaften und Zellverträglichkeit im Labor untersucht; das Gerüst wurde weder implantiert noch klinisch getestet.",
+      "flag": "Die Ergebnisse stammen aus einer In-vitro-Materialstudie. Gute Zytokompatibilität ersetzt keine Tier- oder Humanstudie, und das Gerüst ist kein gedruckter Knochen. Die nahezu verdoppelte Druckfestigkeit bezieht sich auf den Vergleich mit demselben Material direkt nach dem Druck; die nahezu verdoppelte Verformungsenergie auf den Vergleich mit konventionell gesinterten Calciumphosphat-Gerüsten.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 8,
+        "wowFaktor": 8,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/upc-reactive-bone-scaffold.jpg",
+        "alt": "Grafische Übersicht des DLP-Drucks eines Alpha-TCP-Polymergerüsts, seiner Umwandlung zu Hydroxylapatit und der Materialprüfungen",
+        "credit": "Grafik: Fagotto-Clavijo, Lodoso-Torrecilla, Diez-Escudero und Ginebra / UPC",
+        "quelleUrl": "https://biomaterials.upc.edu/ca/portlet-papers/fagotto-clavijo-digital-light-processing-reactive-ceramic-polymer-bone-scaffolds-enables-in-situ-hydroxyapatite-formation-acta-biomaterialia"
+      }
+    },
     {
       "id": "research-2026-09-17-supercritical-co2-fff-foam",
       "storyId": "story-supercritical-co2-local-fff-foaming",
