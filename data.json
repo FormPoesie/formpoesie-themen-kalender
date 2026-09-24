@@ -2,10 +2,92 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-23",
+    "aktualisiertAm": "2026-09-24",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
+    {
+      "id": "deployment-2026-09-21-ornl-boeing-sfd-mold",
+      "storyId": "story-ornl-boeing-multimetal-sfd-mold",
+      "storyTitel": "ORNL und Boeing · Zwei-Tonnen-Werkzeug aus dem WAAM-Druck",
+      "beziehung": "original",
+      "thema": "Ein fast zwei Tonnen schweres Mehrmetall-Werkzeug für Boeing wurde in acht Wochen additiv gefertigt und fertiggestellt.",
+      "kategorie": "Fertigung & Industrie",
+      "organisation": "Oak Ridge National Laboratory / Boeing / Baker Industries / Lincoln Electric",
+      "ort": "Oak Ridge, Tennessee und Macomb, Michigan, USA",
+      "ereignisDatum": "2026-09-21",
+      "veroeffentlichungsDatum": "2026-09-21",
+      "erfasstAm": "2026-09-24",
+      "quelleUrl": "https://www.ornl.gov/news/partnership-between-ornl-boeing-advances-manufacturing-aircraft-parts",
+      "quelleName": "Oak Ridge National Laboratory",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "NASA – Hi-Rate Composite Aircraft Manufacturing Project",
+          "url": "https://www.nasa.gov/directorates/armd/aavp/hicam/"
+        }
+      ],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "fertiggestelltes großformatiges Mehrmetall-Werkzeug für die Verbundwerkstoff-Fertigung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "ORNL und Boeing ließen mit Wire Arc Additive Manufacturing ein sechs Fuß hohes, vier Fuß breites und fast zwei Tonnen schweres Formwerkzeug für thermoplastische Flugzeugbauteile entstehen. Der Druck auf ORNLs Arc-1-System dauerte acht Wochen. Baustahl bildet die tragenden Bereiche, während Edelstahl an der Arbeitsfläche Korrosionsbeständigkeit und Maßhaltigkeit liefert. Nach dem Druck wurde das Werkzeug bei Baker Industries spannungsarm geglüht, von Hilfsrippen befreit und gemäß den Boeing-Anforderungen fertigbearbeitet.",
+      "wasIstNeu": "Das Werkzeug verbindet zwei Metalle in einem großformatigen WAAM-Aufbau und integriert gekrümmte Heiz- und Kühlkanäle, die der Formkontur folgen. 32 Simulationsdurchläufe halfen, den thermischen Verzug so zu kompensieren, dass der Druck innerhalb weniger Millimeter der Sollgeometrie lag.",
+      "relevanz": "Die fertige Form soll Boeing bei Arbeiten für das NASA-Programm HiCAM unterstützen, das die Herstellung thermoplastischer Flugzeugstrukturen beschleunigen will. Das Projekt zeigt einen konkret fertiggestellten Produktionsgegenstand statt nur eine angekündigte Druckanlage.",
+      "endnutzerRelevanz": "Schneller herstellbare Werkzeuge mit effizienter temperierten Formflächen könnten künftig die Produktion leichterer und damit verbrauchsärmerer Flugzeuge unterstützen. Die Quelle belegt das fertige Werkzeug, aber noch keinen damit produzierten Serieneinsatz im Flugzeugbau.",
+      "flag": "ORNL nennt für den Abschluss des Drucks und der Nachbearbeitung kein separates Tagesdatum; deshalb ist das belegte Veröffentlichungsdatum vom 21. September als Ereignisdatum eingetragen. Nicht alle Bestandteile des finalen Werkzeugs wurden gedruckt, und der tatsächliche Einsatz bei Boeing wird als künftig beschrieben.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 9,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/ornl-boeing-sfd-mold.jpg",
+        "alt": "Das fertigbearbeitete, gebogene Zwei-Tonnen-Formwerkzeug aus Stahl steht mit angeschlossenen Leitungen in einer Werkhalle",
+        "credit": "Foto: Baker Industries",
+        "quelleUrl": "https://www.ornl.gov/news/partnership-between-ornl-boeing-advances-manufacturing-aircraft-parts"
+      }
+    },
+    {
+      "id": "research-2026-09-22-llnl-methane-bioreactor",
+      "storyId": "story-llnl-solid-state-methane-bioreactor",
+      "storyTitel": "LLNL · gedruckter Feststoff-Bioreaktor verwertet Methan",
+      "beziehung": "original",
+      "thema": "Ein 3D-gedruckter Bioreaktor wandelt Methan mehr als zehnmal effizienter in Succinat um als flüssigkeitsbasierte Systeme.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "Lawrence Livermore National Laboratory / National Laboratory of the Rockies / Quasar Energy Group / University of North Texas",
+      "ort": "Livermore, Kalifornien, USA",
+      "ereignisDatum": "2026-09-22",
+      "veroeffentlichungsDatum": "2026-09-22",
+      "erfasstAm": "2026-09-24",
+      "quelleUrl": "https://www.llnl.gov/article/54996/3d-printed-solid-state-bioreactor-converts-methane-waste-useful-chemicals",
+      "quelleName": "Lawrence Livermore National Laboratory",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Scientific Reports – Originalpublikation",
+          "url": "https://doi.org/10.1038/s41598-026-54237-1"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "peer-reviewter Feststoff-Bioreaktor mit gedrucktem Strömungsgerüst und immobilisierten Methanbakterien",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das LLNL-Team druckte dünnwandige Gittergerüste, deren Hydrogelwände methanverwertende Bakterien festhalten. Methan strömt direkt durch und um die poröse Struktur, statt erst energieintensiv in einer gerührten Flüssigkeit gelöst zu werden. Das getestete System wandelte Methan in Succinat um, einen Ausgangsstoff unter anderem für Polymere, Arzneimittel und Lebensmittelanwendungen, und übertraf konventionelle flüssigkeitsbasierte Systeme laut LLNL um mehr als den Faktor zehn bei geringerem Energiebedarf.",
+      "wasIstNeu": "Die Geometrie, Materialwahl und Zellimmobilisierung wurden als ein gemeinsames additives Reaktorkonzept ausgelegt. Das Team skalierte den Versuchsreaktor von zwei Millilitern auf einen Liter; die Bakterien arbeiten dabei ohne zusätzliche Hitze oder zusätzlichen Druck.",
+      "relevanz": "Methan aus Deponien und Kläranlagen wird häufig abgefackelt. Ein kompakter Reaktor, der schlecht lösliche Gase ohne energieintensives Rühren biologisch in verwertbare Chemikalien umsetzt, könnte besonders für kleinere Anlagen eine neue Nutzungsmöglichkeit eröffnen.",
+      "endnutzerRelevanz": "Langfristig könnte die Technik Abfallmethan in nützliche Rohstoffe für Kunststoffe, Medikamente oder Lebensmittelzusätze umwandeln. Bisher handelt es sich um einen bis auf einen Liter skalierten Forschungsreaktor und nicht um eine Anlage im realen Deponie- oder Klärwerksbetrieb.",
+      "flag": "Die Leistungsangabe von mehr als dem Faktor zehn stammt aus dem Vergleich mit konventionellen flüssigkeitsbasierten Versuchssystemen. LLNL erklärt ausdrücklich, dass weitere Skalierung für einen realen Einsatz erforderlich ist; Wirtschaftlichkeit und Dauerbetrieb an einer Abfallanlage sind noch nicht belegt.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 9,
+        "wowFaktor": 9,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/llnl-methane-bioreactor.jpg",
+        "alt": "Sechs Forschende des Methan-Bioreaktor-Teams stehen in Schutzkleidung vor einer Laboranlage",
+        "credit": "Foto: Garry McLeod / LLNL",
+        "quelleUrl": "https://www.llnl.gov/article/54996/3d-printed-solid-state-bioreactor-converts-methane-waste-useful-chemicals"
+      }
+    },
     {
       "id": "clinical-2026-08-17-monash-cranial-implants",
       "storyId": "story-monash-patient-specific-cranial-implants",
