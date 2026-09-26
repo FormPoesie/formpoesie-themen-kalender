@@ -2,10 +2,87 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-24",
+    "aktualisiertAm": "2026-09-26",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
+    {
+      "id": "release-2026-09-21-umass-sarara-elephant",
+      "storyId": "story-umass-sarara-conservation-model",
+      "storyTitel": "UMass und Save the Elephants · druckbares Modell von Sarara",
+      "beziehung": "original",
+      "thema": "Ein wissenschaftlich genaues 3D-Modell des Elefanten Sarara steht öffentlich für Bildung und Artenschutz bereit.",
+      "kategorie": "Natur & Umwelt",
+      "organisation": "University of Massachusetts Amherst / Save the Elephants",
+      "ort": "Amherst, Massachusetts, USA / Samburu, Kenia",
+      "ereignisDatum": "2026-09-21",
+      "veroeffentlichungsDatum": "2026-09-25",
+      "erfasstAm": "2026-09-26",
+      "quelleUrl": "https://www.umass.edu/natural-sciences/news/3d-printed-elephant",
+      "quelleName": "University of Massachusetts Amherst",
+      "zusaetzlicheQuellen": [],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "öffentlich freigegebenes, wissenschaftlich rekonstruiertes Tiermodell für Druck und Bildung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Ein Team um Duncan Irschick und Briana Schwieters rekonstruierte den 33-jährigen Elefantenbullen Sarara aus GoPro-Aufnahmen als wissenschaftlich detailliertes 3D-Modell und fertigte daraus physische Drucke. Das Modell wurde am 21. September öffentlich zur Nutzung freigegeben. Es ergänzt eine inzwischen 199 Tiere umfassende digitale Bibliothek, deren Dateien unter anderem von Bildungseinrichtungen, Museen, Tierärzten und Naturschutzprogrammen genutzt werden können.",
+      "wasIstNeu": "Erstmals steht die vollständige digitale Rekonstruktion dieses konkreten, im Samburu-Gebiet aufgenommenen Elefanten für öffentliche Anwendungen bereit. Das Projekt verbindet schonendes Erfassen eines lebenden Wildtiers, digitale Anatomie und reproduzierbare 3D-Druckmodelle.",
+      "relevanz": "Gedruckte Tiermodelle können Kindern und Museumsbesuchern natürliche Anatomie greifbar vermitteln. Die zugrunde liegende Scanmethode soll langfristig außerdem helfen, Körpergröße und Gesundheitszustand freilebender Elefanten berührungslos abzuschätzen, ohne sie zum Wiegen betäuben zu müssen.",
+      "endnutzerRelevanz": "Schulen, Museen und Tiermedizin können ein detailgetreues Elefantenmodell als Lern- und Anschauungsobjekt einsetzen. Die Veröffentlichung ist real erfolgt; die weitergehende Gewichtsschätzung bei Wildherden ist dagegen noch ein Forschungsziel.",
+      "flag": "Belegt sind die Veröffentlichung des Modells und erfolgreich gefertigte Drucke. Die Quelle nennt noch keine konkrete Institution, die gerade das Sarara-Modell bereits einsetzt. Aussagen zur berührungslosen Gewichts- und Gesundheitsbestimmung beschreiben ein künftiges Forschungsprogramm, keine heute validierte Feldanwendung.",
+      "bewertungen": {
+        "neuheitsgrad": 7,
+        "relevanz": 8,
+        "wowFaktor": 9,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/umass-sarara-elephant.png",
+        "alt": "Frontansicht des detailgetreuen digitalen Elefantenmodells von Sarara mit weit ausgebreiteten Ohren und gebogenem Rüssel",
+        "credit": "Bild: UMass Amherst / Irschick Lab",
+        "quelleUrl": "https://www.umass.edu/natural-sciences/news/3d-printed-elephant"
+      }
+    },
+    {
+      "id": "research-2026-09-24-mit-fluidic-cell-collection",
+      "storyId": "story-mit-fluidic-shear-cell-collection",
+      "storyTitel": "MIT · gedrucktes Mikrofluidikgerät sammelt lebende Zellen",
+      "beziehung": "original",
+      "thema": "Ein 3D-gedrucktes Handgerät löst lebende Zellen gezielt aus entnommenem Eileitergewebe und erhält sie für Organoidkulturen.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "Massachusetts Institute of Technology / Johns Hopkins University School of Medicine",
+      "ort": "Cambridge, Massachusetts und Baltimore, Maryland, USA",
+      "ereignisDatum": "2026-09-24",
+      "veroeffentlichungsDatum": "2026-09-24",
+      "erfasstAm": "2026-09-26",
+      "quelleUrl": "https://news.mit.edu/2026/new-cell-collection-device-could-improve-early-cancer-detection-0924",
+      "quelleName": "MIT News",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Device – Originalpublikation",
+          "url": "https://doi.org/10.1016/j.device.2026.101305"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "peer-reviewte, lokal steuerbare Zellgewinnung mit einem 3D-gedruckten Mikrofluidikgerät",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das handgeführte Gerät legt einen kleinen 3D-gedruckten Mikrofluidikkanal per Unterdruck dicht auf Gewebe. Eine zweite Spritze leitet Flüssigkeit durch den Kanal; deren Schubspannung löst Zellen aus einem begrenzten Bereich, ohne Chemikalien oder Enzyme einzusetzen. Das Team testete das System an frischen menschlichen Eileiterproben, gewann lebensfähige Zellen und kultivierte daraus Organoide. Unterschiedlich haftende Zelltypen ließen sich über die Schubspannung adressieren: Locker haftende Prostatakrebszellen lösten sich bereits bei einem Pascal, während sich Knochenkrebszellen selbst bei fünf Pascal nur teilweise ablösten.",
+      "wasIstNeu": "Die 3D-gedruckte Geometrie kombiniert eine Vakuumdichtung und einen lokal begrenzten Flüssigkeitsstrom in einem kleinen Handgerät. Dadurch bleiben die entnommenen Zellen lebendig und das umgebende Gewebe steht weiterhin für die klassische pathologische Untersuchung zur Verfügung.",
+      "relevanz": "Lebende Zellen aus einer exakt ausgewählten verdächtigen Geweberegion könnten Krankheitsmodelle und patientenspezifische Medikamententests ermöglichen. Besonders bei frühen Veränderungen im Eileiter könnte die Methode die Forschung zu hochgradigem serösem Eierstockkrebs unterstützen.",
+      "endnutzerRelevanz": "Langfristig könnte dasselbe Gewebestück sowohl klassisch untersucht als auch für lebende Zellkulturen und individuelle Therapietests genutzt werden. Das Verfahren ist aber noch kein zugelassener Krebsfrüherkennungstest und wurde bislang an bereits entnommenem Gewebe erprobt.",
+      "flag": "Die Versuche erfolgten ex vivo an frischen menschlichen Gewebeproben. Eine Anwendung im Körper, eine diagnostische Trefferquote oder ein klinischer Nutzen für Patientinnen ist noch nicht belegt. Die Organoide sind Zellmodelle und keine gedruckten vollständigen Organe.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/mit-cell-collection-device.jpg",
+        "alt": "Durchsichtige Darstellung eines 3D-gedruckten Handgeräts mit zwei Spritzen vor einer Mikroskopaufnahme lebender Zellen",
+        "credit": "Abbildung: Varanasi Lab / MIT News, CC BY-NC-ND",
+        "quelleUrl": "https://news.mit.edu/2026/new-cell-collection-device-could-improve-early-cancer-detection-0924"
+      }
+    },
     {
       "id": "deployment-2026-09-21-ornl-boeing-sfd-mold",
       "storyId": "story-ornl-boeing-multimetal-sfd-mold",
