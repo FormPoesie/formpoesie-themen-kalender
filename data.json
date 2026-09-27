@@ -2,10 +2,82 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-26",
+    "aktualisiertAm": "2026-09-27",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
+    {
+      "id": "research-2026-09-25-cityu-ultrastrong-titanium",
+      "storyId": "story-cityu-sub-10nm-titanium",
+      "storyTitel": "CityU Hong Kong · Nanobänder machen gedrucktes Titan ultrafest",
+      "beziehung": "original",
+      "thema": "Unter zehn Nanometer feine Stapelbänder verbinden im additiv gefertigten Titan rund 1,5 Gigapascal Streckgrenze mit 7,5 Prozent gleichmäßiger Dehnung.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "City University of Hong Kong / Kunming Institute of Precious Metals / Beijing Institute of Technology / Tianjin University",
+      "ort": "Hongkong / Kunming, Peking und Tianjin, China",
+      "ereignisDatum": "2026-09-25",
+      "veroeffentlichungsDatum": "2026-09-25",
+      "erfasstAm": "2026-09-27",
+      "quelleUrl": "https://www.nature.com/articles/s41563-026-02749-6",
+      "quelleName": "Nature Materials – peer-reviewte Originalpublikation",
+      "zusaetzlicheQuellen": [],
+      "status": "Validiert",
+      "neuheitsstatus": "maschinenlernend optimierte LPBF-Titanlegierung mit Sub-10-Nanometer-Stapelbändern",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Team kombinierte Hochdurchsatzversuche mit maschinellem Lernen, um Legierungszusammensetzung und Prozessparameter für das Laser-Pulverbettverfahren gemeinsam zu optimieren. Die gefundene Prozess-Zusammensetzungs-Kombination erzeugt durch eine martensitische Umwandlung Stapelbänder mit weniger als zehn Nanometern Breite. Das gedruckte Titan erreicht etwa 1,5 Gigapascal Streckgrenze, mehr als 1,7 Gigapascal Zugfestigkeit, rund 7,5 Prozent gleichmäßige Dehnung und eine spezifische Festigkeit von ungefähr 380 Megapascal-Kubikzentimetern pro Gramm.",
+      "wasIstNeu": "Die nanoskalige Verstärkungsstruktur entsteht direkt im skalierbaren Laser-Pulverbettprozess und muss nicht nachträglich in ein bereits geformtes Bauteil eingebracht werden. Der datengetriebene Suchlauf erschließt dafür einen zuvor nicht zugänglichen Bereich aus Legierungsgehalt und Druckparametern.",
+      "relevanz": "Hochfeste Titanlegierungen verlieren häufig Verformbarkeit oder lassen sich nur schwer als komplexes Bauteil fertigen. Die Kombination aus hoher Festigkeit, messbarer Duktilität und additiver Formfreiheit ist deshalb für leichte Strukturteile in Luftfahrt, Mobilität und Medizintechnik interessant.",
+      "endnutzerRelevanz": "Der Durchbruch betrifft noch kein kaufbares Produkt. Er zeigt jedoch einen Weg zu leichteren, belastbareren Titankomponenten mit komplexen Geometrien, die später etwa in Flugzeugen, Fahrzeugen oder Implantatsystemen Gewicht sparen könnten.",
+      "flag": "Belegt sind Materialproben, mechanische Kennwerte und ein additiv gefertigtes Demonstratorbauteil. Dauerfestigkeit, Serienqualifikation und Verhalten in einem konkreten Endprodukt wurden in dieser Veröffentlichung nicht nachgewiesen.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/cityu-ultrastrong-titanium.png",
+        "alt": "Forschungsabbildung zum Laser-Pulverbettprozess mit gedrucktem Turbinenrad, maschinellem Lernmodell, Zugproben und mikroskopischen Aufnahmen der Nanobänder",
+        "credit": "Abbildung: Bai et al. / Nature Materials",
+        "quelleUrl": "https://www.nature.com/articles/s41563-026-02749-6"
+      }
+    },
+    {
+      "id": "release-2026-09-16-kls-lithabone-ips-gate",
+      "storyId": "story-kls-lithabone-patient-specific-implants",
+      "storyTitel": "KLS Martin · patientenspezifische Biokeramikimplantate sind digital bestellbar",
+      "beziehung": "original",
+      "thema": "Chirurginnen und Chirurgen können individuell geplante, 3D-gedruckte und resorbierbare Knochenersatzimplantate regulär über IPS Gate bestellen.",
+      "kategorie": "Medizin & Körper",
+      "organisation": "KLS Martin Group / Lithoz",
+      "ort": "Tuttlingen, Deutschland / Wien, Österreich",
+      "ereignisDatum": "2026-09-16",
+      "veroeffentlichungsDatum": "2026-09-16",
+      "erfasstAm": "2026-09-27",
+      "quelleUrl": "https://www.lithoz.com/en/kls-martin-delivers-their-500th-lithoz-lcm-printed-bioceramic-implant-by-end-of-q3-2026-via-their-surgeon-facing-order-platform-ips-gate/",
+      "quelleName": "Lithoz",
+      "zusaetzlicheQuellen": [],
+      "status": "Teilvalidiert",
+      "neuheitsstatus": "reguläre digitale Verfügbarkeit patientenspezifischer, additiv gefertigter TCP-Implantate",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "KLS Martin hat patientenspezifische Implantate aus dem resorbierbaren Knochenersatzmaterial LithaBone TCP als regulär verfügbares Produkt in seine Plattform IPS Gate integriert. Behandelnde Teams können damit aus CT-Daten ein fallbezogenes Gerüst planen, spezifizieren und bestellen. Gefertigt werden die porösen Implantate auf Lithoz-Anlagen per Lithography-based Ceramic Manufacturing. Alternativ zu Titanschrauben lassen sie sich mit resorbierbaren Polymerstiften des SonicWeld-Rx-Systems fixieren.",
+      "wasIstNeu": "Die patientenspezifischen TCP-Strukturen wechseln von einem über Jahre klinisch erprobten Spezialverfahren in den etablierten digitalen Bestell- und Planungsablauf von KLS Martin. Die Porosität wird an den jeweiligen Fall angepasst und beeinflusst, wie das Implantat abgebaut und durch neu gebildeten Knochen ersetzt werden kann.",
+      "relevanz": "Für Kliniken verkürzt ein durchgängiger Ablauf von den Bilddaten bis zum fallbezogenen Implantat die Planung. Für Patientinnen und Patienten eröffnet die reguläre Bestellbarkeit einen praktischeren Zugang zu formgenauem, resorbierbarem Knochenersatz, der nach der Heilung nicht dauerhaft im Körper verbleiben soll.",
+      "endnutzerRelevanz": "Das ist keine reine Laborentwicklung: Chirurgische Teams können die patientenspezifischen Implantate jetzt über eine bestehende Versorgungsplattform planen und bestellen. Eine zweite Operation nur zur Entfernung der Fixierung kann entfallen, wenn zusätzlich die resorbierbaren Polymerstifte eingesetzt werden und der individuelle Heilungsverlauf dies zulässt.",
+      "flag": "Belegt ist die reguläre Aufnahme der Implantate in IPS Gate am 16. September. Die ebenfalls genannte Zahl von 500 ausgelieferten Keramikimplantaten war zu diesem Zeitpunkt noch ein für das Ende des dritten Quartals erwarteter Meilenstein und wird hier nicht als bereits erreicht dargestellt. Die Quelle nennt keine patientenbezogenen Behandlungsergebnisse dieses konkreten Plattformstarts.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 8
+      },
+      "bild": {
+        "url": "assets/images/kls-martin-lithabone-ips-gate.webp",
+        "alt": "Anatomisches Schädelmodell mit verschiedenen patientenspezifischen Implantaten; rechts im Mittelgesicht ist ein weißes poröses Biokeramikgerüst eingesetzt",
+        "credit": "Bild: KLS Martin / Lithoz",
+        "quelleUrl": "https://www.lithoz.com/en/kls-martin-delivers-their-500th-lithoz-lcm-printed-bioceramic-implant-by-end-of-q3-2026-via-their-surgeon-facing-order-platform-ips-gate/"
+      }
+    },
     {
       "id": "release-2026-09-21-umass-sarara-elephant",
       "storyId": "story-umass-sarara-conservation-model",
