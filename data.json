@@ -2,10 +2,55 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-27",
+    "aktualisiertAm": "2026-09-28",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
+    {
+      "id": "release-2026-09-21-uci-craft-robotic-hand",
+      "storyId": "story-uci-craft-open-robotic-hand",
+      "storyTitel": "UC Irvine · druckbare Roboterhand greift empfindliche Alltagsobjekte",
+      "beziehung": "original",
+      "thema": "Eine vollständig offen dokumentierte Roboterhand aus PLA und TPU kostet weniger als 600 Dollar und bewältigt alle 33 standardisierten Greifarten.",
+      "kategorie": "Konsum & Alltag",
+      "organisation": "University of California, Irvine / University of Illinois Urbana-Champaign",
+      "ort": "Irvine, Kalifornien / Urbana-Champaign, Illinois, USA",
+      "ereignisDatum": "2026-09-21",
+      "veroeffentlichungsDatum": "2026-09-21",
+      "erfasstAm": "2026-09-28",
+      "quelleUrl": "https://ics.uci.edu/2026/09/21/uc-irvine-researchers-develop-open-source-3d-printed-robotic-hand-with-human-like-dexterity/",
+      "quelleName": "University of California, Irvine",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "CRAFT – Projektseite mit Bauplänen und Software",
+          "url": "https://craft-hand.github.io/"
+        },
+        {
+          "name": "RSS 2026 – Forschungsmanuskript",
+          "url": "https://arxiv.org/abs/2603.12120"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "offen veröffentlichte und extern nachgebaute Roboterhand mit lokal nachgiebigen Gelenken",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das CRAFT-Team druckt die steifen Fingersegmente aus PLA und die nachgiebigen Gelenke aus TPU. Rollende statt klassisch scharnierartige Fingergelenke verteilen Stoßkräfte, während 15 hinter dem Handgelenk sitzende Motoren die Finger über Seilzüge bewegen. Die 800 Gramm schwere Hand kostet weniger als 600 US-Dollar, tolerierte im Strukturtest fast die doppelte Kraft einer LEAP-Lite-Hand und erreichte bei empfindlichen Testobjekten eine Erfolgsquote von 100 Prozent. Sie deckte außerdem alle 33 Griffarten der Feix-Taxonomie ab.",
+      "wasIstNeu": "CRAFT verbindet druckbare harte und weiche Bauteile so, dass Nachgiebigkeit gezielt in den Gelenken sitzt und die Finger dennoch präzise geführt werden. Hardware, Software, Bauanleitung und Montagevideo sind öffentlich verfügbar; ein Komponentenpaket wird für 471 US-Dollar angeboten, und weitere Forschungseinrichtungen nutzen den Nachbau bereits.",
+      "relevanz": "Viele feinfühlige Roboterhände sind teuer oder zerbrechen bei unbeabsichtigtem Kontakt. Eine günstige, reparierbare und reproduzierbare Plattform kann Hochschulen und kleineren Laboren Zugang zu Datensammlung, Teleoperation und Forschung an feinmotorischen Robotikaufgaben geben.",
+      "endnutzerRelevanz": "Die Hand kann empfindliche Gegenstände wie Ei, Himbeere, Chip oder Weinglas greifen und lässt sich mit handelsüblichen Druckmaterialien nachbauen. Sie ist derzeit eine offene Forschungsplattform und weder eine zugelassene Prothese noch ein fertiger Haushaltsroboter.",
+      "flag": "Die University-Meldung vom 21. September dokumentiert die offene Verfügbarkeit und den praktischen Einsatz; die Forschungsarbeit wurde bereits vom 14. bis 17. Juli auf der RSS 2026 vorgestellt. Die 100-Prozent-Quote bezieht sich auf die untersuchten empfindlichen Testobjekte, nicht auf beliebige Greifaufgaben. Aussagen zu externen Nutzern stammen aus der Universität und wurden nicht für jede Einrichtung einzeln überprüft.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 9,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/uci-craft-robotic-hand.jpg",
+        "alt": "Graue CRAFT-Roboterhand mit gedruckten Fingergliedern greift einen gelben Tennisball",
+        "credit": "Foto: CRAFT-Team / UC Irvine",
+        "quelleUrl": "https://ics.uci.edu/2026/09/21/uc-irvine-researchers-develop-open-source-3d-printed-robotic-hand-with-human-like-dexterity/"
+      }
+    },
     {
       "id": "research-2026-09-25-cityu-ultrastrong-titanium",
       "storyId": "story-cityu-sub-10nm-titanium",
