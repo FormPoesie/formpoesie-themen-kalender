@@ -2,10 +2,46 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-28",
+    "aktualisiertAm": "2026-09-29",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
+    {
+      "id": "installation-2026-09-14-georgia-tech-ninefold",
+      "storyId": "story-georgia-tech-ninefold-recycled-print-waste",
+      "storyTitel": "Georgia Tech · Druckabfälle werden zur begehbaren Klanginstallation",
+      "beziehung": "original",
+      "thema": "Neun großformatig gedruckte Körper aus zerkleinerten Druckresten bilden in einer öffentlichen Bibliothek ein räumliches Klangfeld.",
+      "kategorie": "Mode & Objekt",
+      "organisation": "Georgia Institute of Technology / Flowers Invention Studio / Georgia Tech Manufacturing Institute",
+      "ort": "Atlanta, Georgia, USA",
+      "ereignisDatum": "2026-09-14",
+      "veroeffentlichungsDatum": "2026-09-09",
+      "erfasstAm": "2026-09-29",
+      "quelleUrl": "https://me.gatech.edu/news/woodruff-students-help-turn-3d-printing-waste-art",
+      "quelleName": "Georgia Tech – George W. Woodruff School of Mechanical Engineering",
+      "zusaetzlicheQuellen": [],
+      "status": "Validiert",
+      "neuheitsstatus": "öffentlich zugängliche Kunstinstallation aus wiederverarbeiteten 3D-Druckabfällen",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Für „Ninefold: A Distributed Resonant Field“ sortierte und zerkleinerte das Team ausrangierte Druckteile aus dem Flowers Invention Studio, mischte sie nach Material und Farbe mit transparentem PLA-Granulat und verarbeitete die Mischung auf einem großformatigen GigabotX-2-Pelletdrucker. Entstanden sind neun transluzente Körper, die neun harmonischen Frequenzen zugeordnet sind. Besucherinnen und Besucher bewegen sich zwischen den Objekten, während sich das räumliche Klangbild mit ihrer Position verändert. Die Installation ist seit dem 14. September in der Interactive Media Zone der Georgia-Tech-Bibliothek öffentlich zugänglich.",
+      "wasIstNeu": "Das Projekt schließt eine konkrete Kette von lokalem Druckabfall über Sortierung, Zerkleinerung und Pelletdruck bis zu einer fertig installierten, begehbaren Kunst- und Klangarbeit. Die optische Wirkung wurde direkt über die Druckgeschwindigkeit gesteuert: Bereits eine um fünf Prozent höhere Geschwindigkeit ließ ein Bauteil laut Projektteam von transluzent zu undurchsichtig wechseln.",
+      "relevanz": "Die Installation macht Kunststoffreste nicht nur wieder zu Rohmaterial, sondern nutzt ihre vorhandenen Farben als gestalterisches Element. Damit wird Kreislauffertigung für ein öffentliches Publikum räumlich, visuell und akustisch erfahrbar statt ausschließlich als Materialversuch gezeigt.",
+      "endnutzerRelevanz": "Besucher können die gedruckten Objekte bis zum 30. Oktober in der Georgia-Tech-Bibliothek erleben. Das Projekt zeigt zugleich Makerspaces und Bildungseinrichtungen eine praktische Weiterverwendung sortierter Fehldrucke und Stützstrukturen.",
+      "flag": "Belegt sind die gefertigten neun Objekte und die öffentliche Ausstellung. Die Quelle nennt weder den genauen Recyclinganteil der Granulatmischung noch mechanische Langzeitwerte; daraus lässt sich deshalb keine allgemeine Aussage über geschlossene Materialkreisläufe oder die Wiederverwertbarkeit beliebiger gemischter Druckabfälle ableiten.",
+      "bewertungen": {
+        "neuheitsgrad": 7,
+        "relevanz": 8,
+        "wowFaktor": 9,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/georgia-tech-ninefold.jpg",
+        "alt": "Sechs transluzente, großformatig 3D-gedruckte Ninefold-Klangkörper in Blau-, Orange- und Naturtönen stehen auf einer Wiese",
+        "credit": "Foto: Georgia Tech / Ninefold-Projektteam",
+        "quelleUrl": "https://me.gatech.edu/news/woodruff-students-help-turn-3d-printing-waste-art"
+      }
+    },
     {
       "id": "release-2026-09-21-uci-craft-robotic-hand",
       "storyId": "story-uci-craft-open-robotic-hand",
