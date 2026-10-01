@@ -2,10 +2,55 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-09-29",
+    "aktualisiertAm": "2026-10-01",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
+    {
+      "id": "research-2026-08-22-wsu-beam-grcop42",
+      "storyId": "story-wsu-beam-low-power-grcop42",
+      "storyTitel": "Washington State University · KI findet Niedrigenergie-Fenster für GRCop-42",
+      "beziehung": "original",
+      "thema": "Ein KI-geführter Versuchsprozess findet mit höchstens zehn Tests je Leistungsstufe druckbare GRCop-42-Parameter bis hinunter zu 500 Watt.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "Washington State University / University of Minnesota",
+      "ort": "Pullman, Washington / Minneapolis, Minnesota, USA",
+      "ereignisDatum": "2026-08-22",
+      "veroeffentlichungsDatum": "2026-08-22",
+      "erfasstAm": "2026-10-01",
+      "quelleUrl": "https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.70069",
+      "quelleName": "AI Magazine",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Washington State University – Forschungsbericht",
+          "url": "https://research.wsu.edu/news/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy"
+        },
+        {
+          "name": "AAAI 2026 – Konferenzpublikation mit Versuchsdaten",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/download/41428/45389"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "experimentell bestätigte KI-Suche nach druckbaren Prozessfenstern für eine schwer verarbeitbare Kupferlegierung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das BEAM-Verfahren verbindet ein probabilistisches KI-Modell mit realen DED-Versuchen. Für die NASA-Kupferlegierung GRCop-42 untersuchte das Team Laserleistungen von 950, 700, 600 und 500 Watt. Obwohl der jeweilige Parameterraum mehr als 100 Millionen Kombinationen umfasste, fand BEAM innerhalb eines Budgets von jeweils zehn Versuchen mindestens eine funktionierende Konfiguration; insgesamt wurden sechs erfolgreiche Einstellungen identifiziert. Gedruckt wurden Testblöcke und Zylinder auf Inconel 718, darunter ein bei 700 Watt gefertigter Zylinder mit festem Inneren und gleichmäßigem Materialübergang.",
+      "wasIstNeu": "GRCop-42 wird üblicherweise mit deutlich leistungsstärkeren Lasersystemen verarbeitet. Die Versuche zeigen erstmals funktionierende Parameter auf einem verbreiteten Infrarot-DED-System bis hinunter zu 500 Watt. Zuvor hatte das Fertigungsteam nach 37 manuellen Versuchen über mehrere Monate keine erfolgreiche Einstellung gefunden.",
+      "relevanz": "Die Methode reduziert die physische Suche nicht auf eine Simulation, sondern entscheidet iterativ, welche teuren Laborversuche als Nächstes durchgeführt werden. Dadurch können schwer druckbare Legierungen auf breiter verfügbarer Technik erschlossen werden, ohne Millionen möglicher Einstellungen praktisch testen zu müssen.",
+      "endnutzerRelevanz": "Die Arbeit zielt zunächst auf Prozessentwicklung in Labor und Industrie. Langfristig kann sie kleineren Fertigungsbetrieben und Forschungseinrichtungen den Zugang zu leistungsfähigen Kupferlegierungen für Wärmemanagement und Raumfahrtbauteile erleichtern; ein marktreifes Endprodukt wurde noch nicht vorgestellt.",
+      "flag": "Belegt sind erfolgreiche DED-Testkörper und sechs funktionsfähige Parametersätze zwischen 950 und 500 Watt. Nicht belegt sind bereits qualifizierte Raketenbauteile, Serienfertigung oder eine Übertragbarkeit ohne neue Versuche auf andere Maschinen und Legierungen. Die Qualitätsbewertung der Testkörper ersetzt keine vollständige Bauteilzulassung.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 8,
+        "wowFaktor": 8,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/wsu-beam-grcop42.jpg",
+        "alt": "Vier Ansichten erfolgreicher DED-Testkörper aus GRCop-42 und Inconel 718, darunter ein gedruckter Block, ein bearbeiteter Kupferzylinder und sein Materialquerschnitt",
+        "credit": "Abbildung: Fadhel et al. / AAAI 2026",
+        "quelleUrl": "https://ojs.aaai.org/index.php/AAAI/article/download/41428/45389"
+      }
+    },
     {
       "id": "installation-2026-09-14-georgia-tech-ninefold",
       "storyId": "story-georgia-tech-ninefold-recycled-print-waste",
