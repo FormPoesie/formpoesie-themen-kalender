@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-10-01",
+    "aktualisiertAm": "2026-10-02",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -2703,6 +2703,96 @@
         "relevanz": 9,
         "wowFaktor": 9,
         "quellenqualitaet": 10
+      }
+    },
+    {
+      "id": "exhibition-2026-09-12-innovus-after-last-sip",
+      "storyId": "story-innovus-tea-coffee-waste-design-objects",
+      "storyTitel": "Innovus Lab · Teereste und Kaffeesatz werden zu Möbeln und Leuchten",
+      "beziehung": "original",
+      "thema": "Eine Londoner Ausstellung zeigt robotisch 3D-gedruckte Möbel und Leuchten aus Tee- und Kaffeeabfällen mit PLA.",
+      "kategorie": "Mode & Objekt",
+      "organisation": "Innovus Lab / London Design Festival / Fab.Pub",
+      "ort": "London, Vereinigtes Königreich",
+      "ereignisDatum": "2026-09-12",
+      "veroeffentlichungsDatum": "2026-09-09",
+      "erfasstAm": "2026-10-02",
+      "quelleUrl": "https://innovuslab.uk/exhibitions/after-the-last-sip",
+      "quelleName": "Innovus Lab",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "London Design Festival – offizieller Programmeintrag mit Laufzeit und Ort",
+          "url": "https://londondesignfestival.com/activities/after-the-last-sip"
+        },
+        {
+          "name": "MaterialDistrict – datierter Projektbericht",
+          "url": "https://materialdistrict.com/article/tea-and-coffee-waste-become-3d-printed-design-objects/"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "öffentlich gezeigte Serie alltagsnaher Designobjekte aus Reststoff-Verbundmaterial",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Innovus Lab trocknete und mahlte gebrauchte Teeblätter und Kaffeesatz aus Londoner Betrieben, mischte die Partikel mit PLA und verarbeitete die Verbundmaterialien per großformatigem Roboter-3D-Druck. Vom 12. bis 18. September waren daraus gefertigte Leuchten, Möbel und Skulpturen bei der Ausstellung „After the Last Sip“ im Fab.Pub öffentlich zu sehen. Neben fertigen Objekten zeigte die Ausstellung Materialproben, Fehldrucke, Schnittstücke und wiederaufbereitete Produktionsreste.",
+      "wasIstNeu": "Die Arbeit endet nicht bei Materialproben: Mehrere gebrauchsfähige Leuchten, Sitz- und Ablageobjekte sowie Skulpturen wurden als zusammenhängende Serie gefertigt und öffentlich ausgestellt. Unterschiedliche Mischungsverhältnisse und Partikelgrößen erzeugen sichtbare Unterschiede bei Farbe, Textur, Lichtdurchlässigkeit und Struktur.",
+      "relevanz": "Das Projekt macht organische Reststoffe in großen, visuell eigenständigen Alltagsobjekten sichtbar und verbindet Materialentwicklung, parametrische Gestaltung und robotische Fertigung. Damit zeigt es einen konkreten Designanwendungsfall jenseits reiner Prüfstäbe oder Laborproben.",
+      "endnutzerRelevanz": "Besucher konnten die gedruckten Möbel und Leuchten im realen Raum erleben; Teile der Serie werden nach dem Festival weiterhin als Installation gezeigt. Das veranschaulicht unmittelbar, wie lokale Getränkeabfälle zu nutzbaren Einrichtungsobjekten werden können.",
+      "flag": "Die Objekte bestehen nicht ausschließlich aus organischen Abfällen, sondern aus Verbundmaterialien mit PLA. Weder der genaue Reststoffanteil noch eine Ökobilanz oder ein industrieller Serienprozess sind veröffentlicht; Aussagen zur Kreislauffähigkeit bleiben deshalb auf den dokumentierten Material- und Ausstellungsprozess begrenzt.",
+      "bewertungen": {
+        "neuheitsgrad": 7,
+        "relevanz": 8,
+        "wowFaktor": 8,
+        "quellenqualitaet": 9
+      },
+      "bild": {
+        "url": "assets/images/innovus-after-last-sip.jpg",
+        "alt": "Ausstellungsraum mit beleuchteten 3D-gedruckten Möbeln, Leuchten, Gefäßen und Skulpturen aus Tee- und Kaffeeabfall-Verbundmaterial",
+        "credit": "Foto: Pin-Hsi Sung / Innovus Lab",
+        "quelleUrl": "https://innovuslab.uk/exhibitions/after-the-last-sip"
+      }
+    },
+    {
+      "id": "research-2026-08-28-mit-instructmesh",
+      "storyId": "story-mit-instructmesh-generative-model-repair",
+      "storyTitel": "MIT InstructMesh · Einsteiger reparieren fehlerhafte KI-Modelle vor dem Druck",
+      "beziehung": "original",
+      "thema": "Mit InstructMesh erkennen und beheben Neulinge rund 90 Prozent der untersuchten Fertigungsfehler in KI-generierten 3D-Modellen.",
+      "kategorie": "Forschung & Verfahren",
+      "organisation": "MIT CSAIL / Google / Northeastern University",
+      "ort": "Cambridge und Boston, Massachusetts, USA",
+      "ereignisDatum": "2026-08-28",
+      "veroeffentlichungsDatum": "2026-10-01",
+      "erfasstAm": "2026-10-02",
+      "quelleUrl": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+      "quelleName": "MIT News / MIT CSAIL",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "InstructMesh – Originalpublikation und Preprint",
+          "url": "https://arxiv.org/abs/2608.28534"
+        },
+        {
+          "name": "ACM UIST – Publikations-DOI",
+          "url": "https://doi.org/10.1145/3830398.3830647"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "publizierter Prototyp zur gezielten Reparatur generativer 3D-Modelle für die Fertigung",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "InstructMesh verbindet einen generativen 3D-Modellierer mit einem Sprachmodell und lässt Nutzer gezielt Bereiche eines erzeugten Modells auswählen. Fehler wie geschlossene Öffnungen, unerwünschte Hohlräume oder zu dünne Wandungen können per natürlicher Sprache oder Regler korrigiert werden, bevor das Objekt gedruckt wird. In den Tests waren fast 80 Prozent der nachgebildeten populären Thingiverse-Modelle strukturell fehlerhaft; unerfahrene Nutzer erkannten und reparierten die untersuchten Probleme anschließend in etwa 90 Prozent der Fälle, geprüft durch einen Experten.",
+      "wasIstNeu": "Statt ein KI-generiertes Modell komplett neu aufzubauen, verändert InstructMesh ausgewählte Regionen direkt in der latenten Repräsentation. Der Ansatz kombiniert lokale Auswahl, sprachliche Anweisungen und präzise Regler und wurde nicht nur an Bildschirmmodellen, sondern auch an gefertigten Tassen, Brillen, Spendern, Schienen und Robotergehäusen demonstriert.",
+      "relevanz": "Generative 3D-Systeme produzieren häufig optisch überzeugende, aber nicht druck- oder nutzbare Geometrien. Ein zugänglicher Reparaturschritt kann die Lücke zwischen KI-Entwurf und funktionierendem physischen Objekt verkleinern, ohne von Anwendern professionelle CAD-Kenntnisse zu verlangen.",
+      "endnutzerRelevanz": "Menschen ohne 3D-Modellierungskenntnisse könnten personalisierte Alltagsgegenstände künftig leichter druckbar machen und typische Konstruktionsfehler vor Material- und Zeitverbrauch beseitigen.",
+      "flag": "InstructMesh ist ein Forschungsprototyp und noch kein allgemein verfügbares Verbraucherprodukt. Die rund 90 Prozent beziehen sich auf die im Paper untersuchten Aufgaben und Teilnehmer, nicht auf beliebige KI-Modelle oder alle Arten von Fertigungsfehlern; Haltbarkeit und Sicherheit der gedruckten Objekte wurden damit nicht allgemein nachgewiesen.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/mit-instructmesh.jpg",
+        "alt": "Dreiteilige Darstellung einer KI-generierten Drachentasse vor der Bearbeitung, als korrigiertes 3D-Modell und als gedrucktes Objekt in einer Hand",
+        "credit": "Bild: Alex Shipps / MIT CSAIL; unter Verwendung von KI- und Adobe-Stock-Elementen",
+        "quelleUrl": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001"
       }
     }
   ]
