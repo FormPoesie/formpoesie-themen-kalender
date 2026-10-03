@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-10-02",
+    "aktualisiertAm": "2026-10-03",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -2793,6 +2793,51 @@
         "alt": "Dreiteilige Darstellung einer KI-generierten Drachentasse vor der Bearbeitung, als korrigiertes 3D-Modell und als gedrucktes Objekt in einer Hand",
         "credit": "Bild: Alex Shipps / MIT CSAIL; unter Verwendung von KI- und Adobe-Stock-Elementen",
         "quelleUrl": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001"
+      }
+    },
+    {
+      "id": "clinical-2026-08-14-gregorio-maranon-metamaterial-tibia",
+      "storyId": "story-gregorio-maranon-personalized-metamaterial-tibia",
+      "storyTitel": "Gregorio Marañón · gedrucktes Metamaterial-Tibiaimplantat erhält Bein und Kniebeweglichkeit",
+      "beziehung": "original",
+      "thema": "Ein patientenspezifisches 300-Gramm-Titanimplantat trägt mehr als 500 Kilogramm und ermöglicht dem Patienten wieder das Gehen.",
+      "kategorie": "Medizin & Körper",
+      "organisation": "Hospital General Universitario Gregorio Marañón / Universidad Politécnica de Madrid",
+      "ort": "Madrid, Spanien",
+      "ereignisDatum": "2026-08-14",
+      "veroeffentlichungsDatum": "2026-08-14",
+      "erfasstAm": "2026-10-03",
+      "quelleUrl": "https://www.comunidad.madrid/hospital/gregoriomaranon/noticia/hospital-gregorio-maranon-comunidad-madrid-fabrica-e-implanta-primera-protesis-osea-metamaterial",
+      "quelleName": "Hospital General Universitario Gregorio Marañón / Comunidad de Madrid",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "Universidad Politécnica de Madrid – technische Einordnung des Implantats",
+          "url": "https://www.euita.upm.es/index.php?L=1%2A%2C1713250919&cHash=eed03de01a5f2211ef3344caa1ee9e7e&id=737&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=897"
+        },
+        {
+          "name": "Comunidad de Madrid – Pressemitteilung mit Bild- und Videogalerie",
+          "url": "https://www.comunidad.madrid/notas-prensa/2026/08/14/hospital-gregorio-maranon-comunidad-madrid-fabrica-e-implanta-primera-protesis-osea-metamaterial-personalizada-mundo"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "klinisch implantierter, patientenspezifischer Knochenersatz mit dokumentiertem Jahresverlauf",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Madrider Krankenhaus konstruierte aus radiologischen Aufnahmen und einem digitalen Zwilling des gesunden Beins einen patientenspezifischen Ersatz für einen stark geschädigten Abschnitt der Tibia. Die im Krankenhaus aus Titan 3D-gedruckte, 300 Gramm schwere Gitterstruktur verteilt Belastungen ähnlich wie Knochen und hält laut Projektteam mehr als 500 Kilogramm aus. Sie wurde einem 38-jährigen Patienten nach einem hochgradigen Knochensarkom implantiert und mit Spongiosa aus der hauseigenen Knochenbank gefüllt. Fast ein Jahr nach der Operation waren keine Infektion oder eingriffsbezogene Komplikation dokumentiert; der Patient behielt Kniebeweglichkeit und Beinachse und konnte vielfach ohne Krücken gehen.",
+      "wasIstNeu": "Die innere Metamaterial-Geometrie wurde punktweise auf die Belastbarkeit des verbliebenen Knochens abgestimmt, statt lediglich die äußere Form eines Standardimplantats anzupassen. Schrauben wurden gezielt in Zonen besserer Knochenqualität ausgerichtet, während die offene Gitterstruktur biologisches Knochenmaterial aufnahm.",
+      "relevanz": "Der Fall verbindet patientenspezifische Simulation, additive Fertigung direkt im Krankenhaus, mechanisch abgestimmte Gitterstrukturen und einen dokumentierten klinischen Verlauf. Damit geht die Entwicklung deutlich über ein Anatomiemodell oder einen Laborprototyp hinaus.",
+      "endnutzerRelevanz": "Für den Patienten schuf das Implantat eine konkrete Alternative zu einer Amputation oder einem ungeeigneten Standardimplantat und erhielt die Beweglichkeit des Knies. Das Projekt zeigt zugleich, wie individualisierte Implantate innerhalb eines öffentlichen Krankenhauses hergestellt werden können.",
+      "flag": "Die Operation lag bei Veröffentlichung bereits fast ein Jahr zurück; ein genaues Operationsdatum nennt die Primärquelle nicht. Das Ereignisdatum bezeichnet deshalb die offizielle öffentliche Bestätigung des Implantats und des klinischen Verlaufs am 14. August 2026, nicht den Tag der Implantation. Die Einordnung als weltweit erstes personalisiertes Knochenimplantat dieser Metamaterial-Art stammt von Krankenhaus und UPM; langfristige Haltbarkeit und Übertragbarkeit auf andere Patienten sind noch nicht belegt.",
+      "bewertungen": {
+        "neuheitsgrad": 9,
+        "relevanz": 10,
+        "wowFaktor": 10,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/gregorio-maranon-metamaterial-tibia.jpeg",
+        "alt": "Chirurgisches Team im Hospital Gregorio Marañón während eines Eingriffs; ein Operateur hält ein schwarzes patientenspezifisches Bauteil hoch",
+        "credit": "Bild: Hospital General Universitario Gregorio Marañón / Comunidad de Madrid",
+        "quelleUrl": "https://www.comunidad.madrid/notas-prensa/2026/08/14/hospital-gregorio-maranon-comunidad-madrid-fabrica-e-implanta-primera-protesis-osea-metamaterial-personalizada-mundo"
       }
     }
   ]
