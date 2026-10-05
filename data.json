@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-10-03",
+    "aktualisiertAm": "2026-10-05",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -2838,6 +2838,47 @@
         "alt": "Chirurgisches Team im Hospital Gregorio Marañón während eines Eingriffs; ein Operateur hält ein schwarzes patientenspezifisches Bauteil hoch",
         "credit": "Bild: Hospital General Universitario Gregorio Marañón / Comunidad de Madrid",
         "quelleUrl": "https://www.comunidad.madrid/notas-prensa/2026/08/14/hospital-gregorio-maranon-comunidad-madrid-fabrica-e-implanta-primera-protesis-osea-metamaterial-personalizada-mundo"
+      }
+    },
+    {
+      "id": "field-test-2026-09-08-devcom-dissolvable-mold-seal",
+      "storyId": "story-devcom-dissolvable-mold-vehicle-seal",
+      "storyTitel": "DEVCOM · gedruckte Auflösungsform bringt Armeefahrzeug in weniger als 24 Stunden zurück in Betrieb",
+      "beziehung": "original",
+      "thema": "Eine 3D-gedruckte wasserlösliche Form liefert in 21 Stunden und 40 Minuten eine eingebaute, dichte Ersatzdichtung für die Bremsleitung eines Militärfahrzeugs.",
+      "kategorie": "Fertigung & Industrie",
+      "organisation": "DEVCOM Army Research Laboratory / SURVICE Engineering / Oak Ridge Associated Universities",
+      "ort": "Aberdeen Proving Ground, Maryland, USA",
+      "ereignisDatum": "2026-09-08",
+      "veroeffentlichungsDatum": "2026-09-08",
+      "erfasstAm": "2026-10-05",
+      "quelleUrl": "https://arl.devcom.army.mil/arlreport/arl-tn-1330/",
+      "quelleName": "DEVCOM Army Research Laboratory",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "DEVCOM ARL Technical Note ARL-TN-1330 – vollständiger Versuchsbericht",
+          "url": "https://arl.devcom.army.mil/wp-content/uploads/sites/3/ARL-TN-1330.pdf"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "dokumentierter Einbau und Funktionstest eines vor Ort gefertigten Elastomer-Ersatzteils",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das DEVCOM Army Research Laboratory entfernte eine defekte Gladhand-Dichtung aus der Druckluft-Bremsleitung eines FMTV-Fahrzeugs, vermaß sie und konstruierte daraus eine wasserlösliche Form. Die Form wurde in 2,25 Stunden aus BVOH auf einem handelsüblichen Prusa MK4 gedruckt, mit Urethanharz gefüllt und nach der Härtung in warmem Wasser aufgelöst. Nach insgesamt 21 Stunden und 40 Minuten war die gegossene Dichtung am Fahrzeug eingebaut; der tatsächliche Arbeitsaufwand lag bei 108 Minuten.",
+      "wasIstNeu": "Der Bericht zeigt nicht nur ein gedrucktes Werkzeug oder einen Materialtest, sondern die komplette Reparaturkette von der Fehlerdiagnose bis zum eingebauten Ersatzteil. Die neue Dichtung erreichte 69,5 Shore A, passte in den Anschluss und hielt die mit mehr als 100 psi beaufschlagte Bremsleitung im Lecktest ohne sichtbare Blasen dicht. Die Formdatei und Arbeitsanweisung wurden anschließend im Advanced Manufacturing Digital Repository der US Army hinterlegt.",
+      "relevanz": "Weiche Elastomerteile lassen sich mit einfachen Filamentdruckern oft nicht direkt herstellen. Eine auflösbare Einwegform erweitert vorhandene Desktop-Drucker deshalb auf Dichtungen und andere gegossene Ersatzteile und kann lange Lieferzeiten bei einzelnen, schwer verfügbaren Komponenten umgehen.",
+      "endnutzerRelevanz": "Für Wartungsteams zeigt der Versuch einen konkreten Nutzen am einsatzfähigen Fahrzeug: Ein ausgefallenes Bremsleitungsbauteil wurde mit kleiner Ausrüstung innerhalb eines Tages ersetzt und erfolgreich geprüft, statt auf ein Originalersatzteil zu warten.",
+      "flag": "Der Versuch wurde von geschultem ARL-Personal unter kontrollierten Bedingungen an einer einzelnen Dichtung durchgeführt. Er belegt den dichten Einbau und einen Funktionscheck, aber weder Langzeitverschleiß noch eine breite Felderprobung oder eine allgemeine Freigabe für beliebige sicherheitskritische Fahrzeugteile. Das genaue Versuchstag-Datum wird nicht genannt; das Ereignisdatum bezeichnet daher die Veröffentlichung des vollständigen Berichts am 8. September 2026.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/devcom-gladhand-seal.jpg",
+        "alt": "Vergleich der schwarzen Originaldichtung mit der orangefarbenen gegossenen Ersatzdichtung sowie beide Dichtungen am Anschluss eines Armeefahrzeugs",
+        "credit": "Abbildungen: DEVCOM Army Research Laboratory, ARL-TN-1330",
+        "quelleUrl": "https://arl.devcom.army.mil/wp-content/uploads/sites/3/ARL-TN-1330.pdf"
       }
     }
   ]
