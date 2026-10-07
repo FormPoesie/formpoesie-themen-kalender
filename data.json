@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "titel": "FormPoesie — Themen-Kalender",
-    "aktualisiertAm": "2026-10-05",
+    "aktualisiertAm": "2026-10-07",
     "hinweis": "Bereinigtes Ereignisarchiv ohne Dubletten. Ereignisbilder werden nur bei eindeutig zuordenbarer Quelle gezeigt."
   },
   "eintraege": [
@@ -2879,6 +2879,51 @@
         "alt": "Vergleich der schwarzen Originaldichtung mit der orangefarbenen gegossenen Ersatzdichtung sowie beide Dichtungen am Anschluss eines Armeefahrzeugs",
         "credit": "Abbildungen: DEVCOM Army Research Laboratory, ARL-TN-1330",
         "quelleUrl": "https://arl.devcom.army.mil/wp-content/uploads/sites/3/ARL-TN-1330.pdf"
+      }
+    },
+    {
+      "id": "research-2026-09-23-nhtsa-thor-face-insert",
+      "storyId": "story-nhtsa-thor-3d-printed-face-insert",
+      "storyTitel": "NHTSA · gedruckter TPU-Gesichtseinsatz macht Crashtest-Dummy wiederholbarer",
+      "beziehung": "original",
+      "thema": "Drei 3D-gedruckte TPU-Gesichtseinsätze liefern in 25 Qualifikationstests reproduzierbarere Ergebnisse als der bisherige Schaum.",
+      "kategorie": "Raumfahrt & Mobilität",
+      "organisation": "National Highway Traffic Safety Administration / Vehicle Research and Test Center / Humanetics",
+      "ort": "East Liberty, Ohio, USA",
+      "ereignisDatum": "2026-09-23",
+      "veroeffentlichungsDatum": "2026-09-23",
+      "erfasstAm": "2026-10-07",
+      "quelleUrl": "https://www.regulations.gov/document/NHTSA-2019-0106-0032",
+      "quelleName": "National Highway Traffic Safety Administration / Regulations.gov",
+      "zusaetzlicheQuellen": [
+        {
+          "name": "NHTSA Vehicle Research and Test Center – THOR-50M Face Insert Report",
+          "url": "https://downloads.regulations.gov/NHTSA-2019-0106-0032/attachment_1.pdf"
+        },
+        {
+          "name": "Federal Register – ergänzender Regelungsvorschlag zum THOR-50M",
+          "url": "https://www.federalregister.gov/documents/2026/09/22/2026-19370/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th"
+        }
+      ],
+      "status": "Validiert",
+      "neuheitsstatus": "vollständig getesteter 3D-gedruckter Ersatz für den Gesichtsschaum eines modernen Crashtest-Dummys",
+      "vertrauensniveau": "Hoch",
+      "zusammenfassung": "Das Vehicle Research and Test Center der US-Verkehrssicherheitsbehörde NHTSA ließ drei Gesichtseinsätze aus TPU-95A mit Kreuzgitter-Füllung und geschlossener Außenhaut 3D-drucken und im THOR-50M-Crashtest-Dummy prüfen. Die Versuchsreihe umfasste Masse, Schwerpunkt, Trägheitsmoment, Wiederholbarkeit, Biofidelität und Haltbarkeit. Im vollständigen Datensatz aus 25 Qualifikationstests lagen die Variationskoeffizienten bei 3,30 Prozent für die maximale Prüfkraft, 4,98 Prozent für die Kopfbeschleunigung und 8,33 Prozent für HIC-15.",
+      "wasIstNeu": "Die gedruckten Einsätze erreichten beim starren Scheibenaufprall für alle drei Exemplare eine ausgezeichnete Biofidelität und schnitten beim starren Stab besser ab als der bisherige Confor-Schaum. Bei erhöhten Energien blieben die Abweichungen von Prüfkraft und Kopfbeschleunigung unter fünf Prozent und von HIC-15 unter 6,44 Prozent; beim Schaum stiegen dieselben Werte um 30,95, 38,79 und 46,23 Prozent. Zudem benötigten die Einsätze keine Einfahr-Schläge und zwischen Prüfungen nur eine Stunde Wartezeit.",
+      "relevanz": "Ein wiederholbarer, haltbarer Gesichtseinsatz kann die Vergleichbarkeit von Fahrzeug-Crashtests verbessern und beschädigungsbedingte Unterbrechungen reduzieren. Die NHTSA schlägt den gedruckten Einsatz deshalb als optionale Alternative für den THOR-50M vor.",
+      "endnutzerRelevanz": "Für Autofahrerinnen und Autofahrer liegt der Nutzen indirekt in verlässlicheren Sicherheitsprüfungen: Wenn der Dummy bei wiederholten Kopf- und Gesichtseinwirkungen konsistenter reagiert, lassen sich Rückhaltesysteme und Fahrzeuginnenräume belastbarer vergleichen.",
+      "flag": "Untersucht wurden drei experimentelle Einsätze in einem behördlichen Prüfprogramm, nicht Serienteile in realen Unfällen. Die NHTSA hat den Einsatz als optionale Alternative vorgeschlagen; eine endgültige Regel ist noch nicht beschlossen und weitere Crashversuche sind vorgesehen. Die Primärquelle nennt keine einzelnen Versuchstage, daher bezeichnet das Ereignisdatum die offizielle Veröffentlichung des vollständigen Berichts am 23. September 2026.",
+      "bewertungen": {
+        "neuheitsgrad": 8,
+        "relevanz": 9,
+        "wowFaktor": 8,
+        "quellenqualitaet": 10
+      },
+      "bild": {
+        "url": "assets/images/nhtsa-thor-face-insert.jpg",
+        "alt": "Gelber 3D-gedruckter TPU-Gesichtseinsatz für den THOR-50M-Crashtest-Dummy mit Detailansicht der Kreuzgitter-Füllung",
+        "credit": "Abbildung: NHTSA Vehicle Research and Test Center, THOR-50M Face Insert Report",
+        "quelleUrl": "https://downloads.regulations.gov/NHTSA-2019-0106-0032/attachment_1.pdf"
       }
     }
   ]
